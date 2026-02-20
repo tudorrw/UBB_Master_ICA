@@ -1,0 +1,154 @@
+normal dataset - 4 clusters
+Evaluating Custom Implementation.
+Starting 5-Fold CV for KMeansClustering-
+Fold 1: V-Measure = 0.2952 Homogeneity = 0.4440 | Completeness = 0.2212 | ARI = 0.2806
+Fold 1: Silhoutte = 0.1298 Davies Bouldin = 2.0881 | Calinski Harabasz = 3133.9131
+Fold 2: V-Measure = 0.3178 Homogeneity = 0.4628 | Completeness = 0.2420 | ARI = 0.3110
+Fold 2: Silhoutte = 0.1353 Davies Bouldin = 2.2586 | Calinski Harabasz = 2892.5680
+Fold 3: V-Measure = 0.2898 Homogeneity = 0.4340 | Completeness = 0.2175 | ARI = 0.2783
+Fold 3: Silhoutte = 0.1254 Davies Bouldin = 2.3704 | Calinski Harabasz = 2817.7615
+Fold 4: V-Measure = 0.3392 Homogeneity = 0.5021 | Completeness = 0.2561 | ARI = 0.3421
+Fold 4: Silhoutte = 0.1473 Davies Bouldin = 2.1982 | Calinski Harabasz = 2965.9377
+Fold 5: V-Measure = 0.2444 Homogeneity = 0.3637 | Completeness = 0.1840 | ARI = 0.2399
+Fold 5: Silhoutte = 0.1344 Davies Bouldin = 2.1206 | Calinski Harabasz = 2889.7548
+Evaluating Scikit-Learn Implementation.
+Starting 5-Fold CV for KMeans-
+Fold 1: V-Measure = 0.2954 Homogeneity = 0.4457 | Completeness = 0.2209 | ARI = 0.2773
+Fold 1: Silhoutte = 0.1283 Davies Bouldin = 2.1022 | Calinski Harabasz = 3137.4452
+Fold 2: V-Measure = 0.3032 Homogeneity = 0.4576 | Completeness = 0.2268 | ARI = 0.2837
+Fold 2: Silhoutte = 0.1318 Davies Bouldin = 2.0881 | Calinski Harabasz = 3205.1479
+Fold 3: V-Measure = 0.2957 Homogeneity = 0.4459 | Completeness = 0.2212 | ARI = 0.2785
+Fold 3: Silhoutte = 0.1287 Davies Bouldin = 2.1075 | Calinski Harabasz = 3152.5096
+Fold 4: V-Measure = 0.3032 Homogeneity = 0.4579 | Completeness = 0.2267 | ARI = 0.2822
+Fold 4: Silhoutte = 0.1290 Davies Bouldin = 2.1032 | Calinski Harabasz = 3158.3191
+Fold 5: V-Measure = 0.2964 Homogeneity = 0.4468 | Completeness = 0.2217 | ARI = 0.2781
+Fold 5: Silhoutte = 0.1289 Davies Bouldin = 2.0996 | Calinski Harabasz = 3159.5369
+
+pca dataset 
+Evaluating Custom Implementation.
+Starting 5-Fold CV for KMeansClustering-
+Fold 1: V-Measure = 0.2317 Homogeneity = 0.3510 | Completeness = 0.1729 | ARI = 0.2144
+Fold 1: Silhoutte = 0.2847 Davies Bouldin = 1.1779 | Calinski Harabasz = 10750.9145
+Fold 2: V-Measure = 0.1776 Homogeneity = 0.2659 | Completeness = 0.1333 | ARI = 0.1834
+Fold 2: Silhoutte = 0.2734 Davies Bouldin = 1.1266 | Calinski Harabasz = 9668.8056
+Fold 3: V-Measure = 0.2327 Homogeneity = 0.3524 | Completeness = 0.1737 | ARI = 0.2141
+Fold 3: Silhoutte = 0.2874 Davies Bouldin = 1.1777 | Calinski Harabasz = 10831.2665
+Fold 4: V-Measure = 0.2381 Homogeneity = 0.3606 | Completeness = 0.1777 | ARI = 0.2184
+Fold 4: Silhoutte = 0.2858 Davies Bouldin = 1.1779 | Calinski Harabasz = 10799.3154
+Fold 5: V-Measure = 0.2367 Homogeneity = 0.3581 | Completeness = 0.1768 | ARI = 0.2181
+Fold 5: Silhoutte = 0.2894 Davies Bouldin = 1.1646 | Calinski Harabasz = 10941.6463
+Evaluating Scikit-Learn Implementation.
+Starting 5-Fold CV for KMeans-
+Fold 1: V-Measure = 0.2318 Homogeneity = 0.3511 | Completeness = 0.1730 | ARI = 0.2147
+Fold 1: Silhoutte = 0.2849 Davies Bouldin = 1.1779 | Calinski Harabasz = 10749.3512
+Fold 2: V-Measure = 0.2363 Homogeneity = 0.3579 | Completeness = 0.1764 | ARI = 0.2176
+Fold 2: Silhoutte = 0.2901 Davies Bouldin = 1.1649 | Calinski Harabasz = 11015.4483
+Fold 3: V-Measure = 0.2330 Homogeneity = 0.3528 | Completeness = 0.1739 | ARI = 0.2143
+Fold 3: Silhoutte = 0.2874 Davies Bouldin = 1.1779 | Calinski Harabasz = 10831.5419
+Fold 4: V-Measure = 0.2375 Homogeneity = 0.3599 | Completeness = 0.1773 | ARI = 0.2175
+Fold 4: Silhoutte = 0.2856 Davies Bouldin = 1.1775 | Calinski Harabasz = 10798.7647
+Fold 5: V-Measure = 0.2370 Homogeneity = 0.3586 | Completeness = 0.1770 | ARI = 0.2186
+Fold 5: Silhoutte = 0.2895 Davies Bouldin = 1.1646 | Calinski Harabasz = 10942.2939
+
+umap - 4 clusters
+Starting 5-Fold CV for KMeansClustering-
+Fold 1: V-Measure = 0.1805 Homogeneity = 0.2734 | Completeness = 0.1347 | ARI = 0.1594
+Fold 1: Silhoutte = 0.5516 Davies Bouldin = 0.6834 | Calinski Harabasz = 40844.6133
+Fold 2: V-Measure = 0.1824 Homogeneity = 0.2763 | Completeness = 0.1362 | ARI = 0.1621
+Fold 2: Silhoutte = 0.5535 Davies Bouldin = 0.6766 | Calinski Harabasz = 41215.3359
+Fold 3: V-Measure = 0.2151 Homogeneity = 0.3247 | Completeness = 0.1608 | ARI = 0.2022
+Fold 3: Silhoutte = 0.4813 Davies Bouldin = 0.7755 | Calinski Harabasz = 32741.0645
+Fold 4: V-Measure = 0.1797 Homogeneity = 0.2721 | Completeness = 0.1342 | ARI = 0.1583
+Fold 4: Silhoutte = 0.5518 Davies Bouldin = 0.6832 | Calinski Harabasz = 40783.4102
+Fold 5: V-Measure = 0.1846 Homogeneity = 0.2792 | Completeness = 0.1379 | ARI = 0.1633
+Fold 5: Silhoutte = 0.5549 Davies Bouldin = 0.6776 | Calinski Harabasz = 41389.2422
+Evaluating Scikit-Learn Implementation.
+Starting 5-Fold CV for KMeans-
+Fold 1: V-Measure = 0.1805 Homogeneity = 0.2734 | Completeness = 0.1347 | ARI = 0.1594
+Fold 1: Silhoutte = 0.5516 Davies Bouldin = 0.6834 | Calinski Harabasz = 40844.6133
+Fold 2: V-Measure = 0.1824 Homogeneity = 0.2763 | Completeness = 0.1362 | ARI = 0.1621
+Fold 2: Silhoutte = 0.5535 Davies Bouldin = 0.6766 | Calinski Harabasz = 41215.3359
+Fold 3: V-Measure = 0.1805 Homogeneity = 0.2734 | Completeness = 0.1348 | ARI = 0.1598
+Fold 3: Silhoutte = 0.5544 Davies Bouldin = 0.6757 | Calinski Harabasz = 41299.9570
+Fold 4: V-Measure = 0.1797 Homogeneity = 0.2721 | Completeness = 0.1342 | ARI = 0.1583
+Fold 4: Silhoutte = 0.5518 Davies Bouldin = 0.6832 | Calinski Harabasz = 40783.4102
+Fold 5: V-Measure = 0.1846 Homogeneity = 0.2792 | Completeness = 0.1379 | ARI = 0.1633
+Fold 5: Silhoutte = 0.5549 Davies Bouldin = 0.6776 | Calinski Harabasz = 41389.2422
+(ml-standard-env) 
+
+
+umap - 6 clusters
+Evaluating Custom Implementation.
+Starting 5-Fold CV for KMeansClustering-
+Fold 1: V-Measure = 0.1838 Homogeneity = 0.3299 | Completeness = 0.1274 | ARI = 0.1337
+Fold 1: Silhoutte = 0.5323 Davies Bouldin = 0.6962 | Calinski Harabasz = 44633.3945
+Fold 2: V-Measure = 0.1920 Homogeneity = 0.3381 | Completeness = 0.1340 | ARI = 0.1436
+Fold 2: Silhoutte = 0.5217 Davies Bouldin = 0.6544 | Calinski Harabasz = 37955.2422
+Fold 3: V-Measure = 0.1827 Homogeneity = 0.3278 | Completeness = 0.1266 | ARI = 0.1447
+Fold 3: Silhoutte = 0.5049 Davies Bouldin = 0.6990 | Calinski Harabasz = 43363.6289
+Fold 4: V-Measure = 0.1798 Homogeneity = 0.3225 | Completeness = 0.1247 | ARI = 0.1293
+Fold 4: Silhoutte = 0.5281 Davies Bouldin = 0.6999 | Calinski Harabasz = 44009.8125
+Fold 5: V-Measure = 0.1634 Homogeneity = 0.2853 | Completeness = 0.1145 | ARI = 0.1330
+Fold 5: Silhoutte = 0.5337 Davies Bouldin = 0.6186 | Calinski Harabasz = 40411.2852
+Evaluating Scikit-Learn Implementation.
+Starting 5-Fold CV for KMeans-
+Fold 1: V-Measure = 0.1838 Homogeneity = 0.3299 | Completeness = 0.1274 | ARI = 0.1337
+Fold 1: Silhoutte = 0.5323 Davies Bouldin = 0.6962 | Calinski Harabasz = 44633.3867
+Fold 2: V-Measure = 0.1822 Homogeneity = 0.3269 | Completeness = 0.1263 | ARI = 0.1328
+Fold 2: Silhoutte = 0.5310 Davies Bouldin = 0.7006 | Calinski Harabasz = 44524.8477
+Fold 3: V-Measure = 0.1807 Homogeneity = 0.3241 | Completeness = 0.1253 | ARI = 0.1321
+Fold 3: Silhoutte = 0.5302 Davies Bouldin = 0.7033 | Calinski Harabasz = 44523.5781
+Fold 4: V-Measure = 0.1798 Homogeneity = 0.3225 | Completeness = 0.1247 | ARI = 0.1293
+Fold 4: Silhoutte = 0.5281 Davies Bouldin = 0.6999 | Calinski Harabasz = 44009.8125
+Fold 5: V-Measure = 0.1820 Homogeneity = 0.3259 | Completeness = 0.1263 | ARI = 0.1336
+Fold 5: Silhoutte = 0.5295 Davies Bouldin = 0.7019 | Calinski Harabasz = 44202.0430
+
+
+normal dataset - without any dimentionality reduction
+Starting 5-Fold CV for KMeansClustering-
+Fold 1: V-Measure = 0.2489 Homogeneity = 0.4980 | Completeness = 0.1659
+Fold 1: Silhoutte = 0.1372 Davies Bouldin = 2.0308 | Calinski Harabasz = 2320.0468
+Fold 2: V-Measure = 0.2481 Homogeneity = 0.5003 | Completeness = 0.1650
+Fold 2: Silhoutte = 0.1331 Davies Bouldin = 2.0214 | Calinski Harabasz = 2405.6645
+Fold 3: V-Measure = 0.2462 Homogeneity = 0.4868 | Completeness = 0.1648
+Fold 3: Silhoutte = 0.1477 Davies Bouldin = 1.9978 | Calinski Harabasz = 2351.2991
+Fold 4: V-Measure = 0.2472 Homogeneity = 0.4979 | Completeness = 0.1644
+Fold 4: Silhoutte = 0.1305 Davies Bouldin = 2.0314 | Calinski Harabasz = 2368.9204
+Fold 5: V-Measure = 0.2509 Homogeneity = 0.4955 | Completeness = 0.1680
+Fold 5: Silhoutte = 0.1415 Davies Bouldin = 2.0071 | Calinski Harabasz = 2304.5445
+
+================================================================================
+Cross-Validation Complete!
+================================================================================
+
+================================================================================
+CONFIDENCE INTERVALS (95% CI) - 5-Fold Cross-Validation
+================================================================================
+Based on Central Limit Theorem: CI = μ ± 1.96 * (σ / √5)
+--------------------------------------------------------------------------------
+
+EXTERNAL EVALUATION METRICS:
+--------------------------------------------------------------------------------
+V_MEASURE           : std: 0.0018, mean: 0.2483 ± margin of error: 0.0016 [0.2467, 0.2498]
+HOMOGENEITY         : std: 0.0052, mean: 0.4957 ± margin of error: 0.0046 [0.4911, 0.5003]
+COMPLETENESS        : std: 0.0015, mean: 0.1656 ± margin of error: 0.0013 [0.1643, 0.1669]
+
+INTERNAL EVALUATION METRICS:
+--------------------------------------------------------------------------------
+SILHOUETTE          : std: 0.0069, mean: 0.1380 ± margin of error: 0.0060 [0.1320, 0.1440]
+DAVIES_BOULDIN      : std: 0.0148, mean: 2.0177 ± margin of error: 0.0130 [2.0047, 2.0307]
+CALINSKI_HARABASZ   : std: 40.0673, mean: 2350.0950 ± margin of error: 35.1205 [2314.9745, 2385.2156]
+================================================================================
+
+
+Starting 5-Fold CV for KMeans-
+Fold 1: V-Measure = 0.2427 Homogeneity = 0.4890 | Completeness = 0.1614
+Fold 1: Silhoutte = 0.1342 Davies Bouldin = 2.0107 | Calinski Harabasz = 2389.4985
+Fold 2: V-Measure = 0.2430 Homogeneity = 0.4889 | Completeness = 0.1617
+Fold 2: Silhoutte = 0.1327 Davies Bouldin = 1.9957 | Calinski Harabasz = 2397.6324
+Fold 3: V-Measure = 0.2451 Homogeneity = 0.4943 | Completeness = 0.1629
+Fold 3: Silhoutte = 0.1287 Davies Bouldin = 1.9893 | Calinski Harabasz = 2379.0759
+Fold 4: V-Measure = 0.2419 Homogeneity = 0.4864 | Completeness = 0.1610
+Fold 4: Silhoutte = 0.1312 Davies Bouldin = 2.0001 | Calinski Harabasz = 2367.3333
+Fold 5: V-Measure = 0.2430 Homogeneity = 0.4891 | Completeness = 0.1616
+Fold 5: Silhoutte = 0.1306 Davies Bouldin = 2.0308 | Calinski Harabasz = 2373.0728
