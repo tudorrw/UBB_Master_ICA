@@ -1,0 +1,451 @@
+--- ENGLISH RESULTS ---
+
+Sentence 1: Heat the beef stock until it boils, then bone the chicken and add it to the pot.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Heat            | VERB       | heat            | heat            | ROOT         | Heat       |           
+the             | DET        | the             | the             | det          | stock      |           
+beef            | NOUN       | beef            | beef            | compound     | stock      |           
+stock           | NOUN       | stock           | stock           | dobj         | Heat       |           
+until           | SCONJ      | until           | until           | mark         | boils      |           
+it              | PRON       | it              | it              | nsubj        | boils      |           
+boils           | VERB       | boil            | boil            | advcl        | Heat       |           
+,               | PUNCT      | ,               | ,               | punct        | Heat       |           
+then            | ADV        | then            | then            | advmod       | Heat       |           
+bone            | VERB       | bone            | bone            | dep          | Heat       |           
+the             | DET        | the             | the             | det          | chicken    |           
+chicken         | NOUN       | chicken         | chicken         | dobj         | bone       |           
+and             | CCONJ      | and             | and             | cc           | bone       |           
+add             | VERB       | add             | add             | conj         | bone       |           
+it              | PRON       | it              | it              | dobj         | add        |           
+to              | ADP        | to              | to              | prep         | add        |           
+the             | DET        | the             | the             | det          | pot        |           
+pot             | NOUN       | pot             | pot             | pobj         | to         |           
+.               | PUNCT      | .               | .               | punct        | Heat       |           
+
+Chunks: the beef, stock, the chicken, the pot
+====================================================================================================
+
+Sentence 2: The seeds planted in the garden grew to be quite a surprise.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+The             | DET        | the             | the             | det          | seeds      |           
+seeds           | NOUN       | seed            | seed            | nsubj        | grew       |           
+planted         | VERB       | plant           | plant           | acl          | seeds      |           
+in              | ADP        | in              | in              | prep         | planted    |           
+the             | DET        | the             | the             | det          | garden     |           
+garden          | NOUN       | garden          | garden          | pobj         | in         |           
+grew            | VERB       | grew            | grow            | ROOT         | grew       |           
+to              | PART       | to              | to              | aux          | be         |           
+be              | AUX        | be              | be              | xcomp        | grew       |           
+quite           | DET        | quit            | quite           | predet       | surprise   |           
+a               | DET        | a               | a               | det          | surprise   |           
+surprise        | NOUN       | surpris         | surprise        | attr         | be         |           
+.               | PUNCT      | .               | .               | punct        | grew       |           
+
+Chunks: the garden, a surprise
+====================================================================================================
+
+Sentence 3: I saw the man on the hill with the telescope.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+I               | PRON       | i               | I               | nsubj        | saw        |           
+saw             | VERB       | saw             | see             | ROOT         | saw        |           
+the             | DET        | the             | the             | det          | man        |           
+man             | NOUN       | man             | man             | dobj         | saw        |           
+on              | ADP        | on              | on              | prep         | man        |           
+the             | DET        | the             | the             | det          | hill       |           
+hill            | NOUN       | hill            | hill            | pobj         | on         |           
+with            | ADP        | with            | with            | prep         | saw        |           
+the             | DET        | the             | the             | det          | telescope  |           
+telescope       | NOUN       | telescop        | telescope       | pobj         | with       |           
+.               | PUNCT      | .               | .               | punct        | saw        |           
+
+Chunks: the man, the hill, the telescope
+====================================================================================================
+
+Sentence 4: The first computer mouse was made of wood and had only one button on its top
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+The             | DET        | the             | the             | det          | mouse      |           
+first           | ADJ        | first           | first           | amod         | mouse      | ORDINAL   
+computer        | NOUN       | comput          | computer        | compound     | mouse      |           
+mouse           | NOUN       | mous            | mouse           | nsubjpass    | made       |           
+was             | AUX        | wa              | be              | auxpass      | made       |           
+made            | VERB       | made            | make            | ROOT         | made       |           
+of              | ADP        | of              | of              | prep         | made       |           
+wood            | NOUN       | wood            | wood            | pobj         | of         |           
+and             | CCONJ      | and             | and             | cc           | made       |           
+had             | VERB       | had             | have            | conj         | made       |           
+only            | ADV        | onli            | only            | advmod       | one        | CARDINAL  
+one             | NUM        | one             | one             | nummod       | button     | CARDINAL  
+button          | NOUN       | button          | button          | dobj         | had        |           
+on              | ADP        | on              | on              | prep         | button     |           
+its             | PRON       | it              | its             | poss         | top        |           
+top             | NOUN       | top             | top             | pobj         | on         |           
+
+Chunks: The first computer, mouse, wood, button
+====================================================================================================
+
+Sentence 5: A blue whale's heart is so large that a human could swim through its arteries
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+A               | DET        | a               | a               | det          | whale      |           
+blue            | ADJ        | blue            | blue            | amod         | whale      |           
+whale           | NOUN       | whale           | whale           | poss         | heart      |           
+'s              | PART       | 's              | 's              | case         | whale      |           
+heart           | NOUN       | heart           | heart           | nsubj        | is         |           
+is              | AUX        | is              | be              | ROOT         | is         |           
+so              | ADV        | so              | so              | advmod       | large      |           
+large           | ADJ        | larg            | large           | acomp        | is         |           
+that            | SCONJ      | that            | that            | mark         | swim       |           
+a               | DET        | a               | a               | det          | human      |           
+human           | NOUN       | human           | human           | nsubj        | swim       |           
+could           | AUX        | could           | could           | aux          | swim       |           
+swim            | VERB       | swim            | swim            | ccomp        | large      |           
+through         | ADP        | through         | through         | prep         | swim       |           
+its             | PRON       | it              | its             | poss         | arteries   |           
+arteries        | NOUN       | arteri          | artery          | pobj         | through    |           
+
+Chunks: A blue whale, heart, a human
+====================================================================================================
+
+Sentence 6: Romania and Poland will continue to work on developing their political and economic cooperation
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Romania         | PROPN      | romania         | Romania         | nsubj        | continue   | GPE       
+and             | CCONJ      | and             | and             | cc           | Romania    |           
+Poland          | PROPN      | poland          | Poland          | conj         | Romania    | GPE       
+will            | AUX        | will            | will            | aux          | continue   |           
+continue        | VERB       | continu         | continue        | ROOT         | continue   |           
+to              | PART       | to              | to              | aux          | work       |           
+work            | VERB       | work            | work            | xcomp        | continue   |           
+on              | ADP        | on              | on              | prep         | work       |           
+developing      | VERB       | develop         | develop         | pcomp        | on         |           
+their           | PRON       | their           | their           | poss         | cooperation |           
+political       | ADJ        | polit           | political       | amod         | cooperation |           
+and             | CCONJ      | and             | and             | cc           | political  |           
+economic        | ADJ        | econom          | economic        | conj         | political  |           
+cooperation     | NOUN       | cooper          | cooperation     | dobj         | developing |           
+
+Chunks: economic cooperation
+====================================================================================================
+
+Sentence 7: The coach told the player he was too tired to start the second half.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+The             | DET        | the             | the             | det          | coach      |           
+coach           | NOUN       | coach           | coach           | nsubj        | told       |           
+told            | VERB       | told            | tell            | ROOT         | told       |           
+the             | DET        | the             | the             | det          | player     |           
+player          | NOUN       | player          | player          | dobj         | told       |           
+he              | PRON       | he              | he              | nsubj        | was        |           
+was             | AUX        | wa              | be              | ccomp        | told       |           
+too             | ADV        | too             | too             | advmod       | tired      |           
+tired           | ADJ        | tire            | tired           | acomp        | was        |           
+to              | PART       | to              | to              | aux          | start      |           
+start           | VERB       | start           | start           | xcomp        | tired      |           
+the             | DET        | the             | the             | det          | half       | DATE      
+second          | ADJ        | second          | second          | amod         | half       | DATE      
+half            | NOUN       | half            | half            | dobj         | start      | DATE      
+.               | PUNCT      | .               | .               | punct        | told       |           
+
+Chunks: The coach, the player, the second half
+====================================================================================================
+
+Sentence 8: The rose bushes pruned in the spring died in the winter.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+The             | DET        | the             | the             | det          | bushes     |           
+rose            | ADJ        | rose            | rose            | compound     | bushes     |           
+bushes          | NOUN       | bush            | bush            | nsubj        | pruned     |           
+pruned          | VERB       | prune           | prune           | ROOT         | pruned     |           
+in              | ADP        | in              | in              | prep         | pruned     |           
+the             | DET        | the             | the             | det          | spring     | DATE      
+spring          | NOUN       | spring          | spring          | pobj         | in         | DATE      
+died            | VERB       | die             | die             | conj         | pruned     |           
+in              | ADP        | in              | in              | prep         | died       |           
+the             | DET        | the             | the             | det          | winter     | DATE      
+winter          | NOUN       | winter          | winter          | pobj         | in         | DATE      
+.               | PUNCT      | .               | .               | punct        | pruned     |           
+
+Chunks: the spring, the winter
+====================================================================================================
+
+Sentence 9: On Saturn and Jupiter, it rains diamonds due to the intense atmospheric pressure.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+On              | ADP        | on              | on              | prep         | rains      |           
+Saturn          | PROPN      | saturn          | Saturn          | pobj         | On         | PRODUCT   
+and             | CCONJ      | and             | and             | cc           | Saturn     |           
+Jupiter         | PROPN      | jupit           | Jupiter         | conj         | Saturn     | LOC       
+,               | PUNCT      | ,               | ,               | punct        | rains      |           
+it              | PRON       | it              | it              | nsubj        | rains      |           
+rains           | VERB       | rain            | rain            | ROOT         | rains      |           
+diamonds        | NOUN       | diamond         | diamond         | dobj         | rains      |           
+due             | ADP        | due             | due             | prep         | rains      |           
+to              | ADP        | to              | to              | pcomp        | due        |           
+the             | DET        | the             | the             | det          | pressure   |           
+intense         | ADJ        | intens          | intense         | amod         | pressure   |           
+atmospheric     | ADJ        | atmospher       | atmospheric     | amod         | pressure   |           
+pressure        | NOUN       | pressur         | pressure        | pobj         | due        |           
+.               | PUNCT      | .               | .               | punct        | rains      |           
+
+Chunks: the intense atmospheric pressure
+====================================================================================================
+
+Sentence 10: Russia has a larger surface area than the planet Pluto
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Russia          | PROPN      | russia          | Russia          | nsubj        | has        | GPE       
+has             | VERB       | ha              | have            | ROOT         | has        |           
+a               | DET        | a               | a               | det          | area       |           
+larger          | ADJ        | larger          | large           | amod         | area       |           
+surface         | NOUN       | surfac          | surface         | compound     | area       |           
+area            | NOUN       | area            | area            | dobj         | has        |           
+than            | ADP        | than            | than            | prep         | area       |           
+the             | DET        | the             | the             | det          | planet     |           
+planet          | NOUN       | planet          | planet          | compound     | Pluto      |           
+Pluto           | PROPN      | pluto           | Pluto           | pobj         | than       |           
+
+Chunks: surface, area, the planet, Pluto
+====================================================================================================
+
+
+--- ROMANIAN RESULTS ---
+
+Sentence 1: Dacă stăm să ne gândim cu nostalgie, parcă aroma copilăriei e cea de cozonac cu nucă.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Dacă            | SCONJ      | dac             | dacă            | mark         | stăm       |           
+stăm            | VERB       | stăm            | sta             | advcl        | cea        |           
+să              | PART       | să              | să              | mark         | gândim     |           
+ne              | PRON       | ne              | eu              | expl:pv      | gândim     |           
+gândim          | VERB       | gând            | gândi           | ccomp        | stăm       |           
+cu              | ADP        | cu              | cu              | case         | nostalgie  |           
+nostalgie       | NOUN       | nostalg         | nostalgie       | obl          | gândim     |           
+,               | PUNCT      | ,               | ,               | punct        | aroma      |           
+parcă           | ADV        | parc            | parcă           | advmod       | aroma      |           
+aroma           | AUX        | arom            | aroma           | conj         | gândim     |           
+copilăriei      | NOUN       | copilăr         | copilărie       | nmod         | aroma      |           
+e               | AUX        | e               | fi              | cop          | cea        |           
+cea             | PRON       | cea             | acela           | ROOT         | cea        |           
+de              | ADP        | de              | de              | case         | cozonac    |           
+cozonac         | NOUN       | cozonac         | cozonac         | nmod         | cea        | PRODUCT   
+cu              | ADP        | cu              | cu              | case         | nucă       | PRODUCT   
+nucă            | NOUN       | nuc             | nucă            | nmod         | cea        | PRODUCT   
+.               | PUNCT      | .               | .               | punct        | cea        |           
+
+Chunks: stăm, să, ne gândim, cu, nostalgie, parcă aroma, copilăriei, e, cea, cu, nucă
+====================================================================================================
+
+Sentence 2: Echipa națională a României va înfrunta în deplasare, peste circa 3 săptămâni, reprezentativa Turciei.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Echipa          | NOUN       | echip           | echipă          | nsubj        | înfrunta   |           
+națională       | ADJ        | național        | național        | amod         | Echipa     |           
+a               | DET        | a               | al              | det          | României   |           
+României        | PROPN      | român           | România         | nmod         | Echipa     | GPE       
+va              | AUX        | va              | vrea            | aux          | înfrunta   |           
+înfrunta        | VERB       | înfrunt         | înfrunta        | ROOT         | înfrunta   |           
+în              | ADP        | în              | în              | case         | deplasare  |           
+deplasare       | NOUN       | deplas          | deplasare       | obl          | înfrunta   |           
+,               | PUNCT      | ,               | ,               | punct        | săptămâni  |           
+peste           | ADP        | pest            | peste           | case         | săptămâni  |           
+circa           | ADV        | circ            | circa           | advmod       | 3          |           
+3               |            | 3               | 3               | nummod       | săptămâni  | DATETIME  
+săptămâni       | NOUN       | săptămân        | săptămână       | obl          | înfrunta   | DATETIME  
+,               | PUNCT      | ,               | ,               | punct        | săptămâni  |           
+reprezentativa  | ADJ        | reprezent       | reprezentativ   | obj          | înfrunta   | ORGANIZATION
+Turciei         | NOUN       | turc            | Turcia          | nmod         | reprezentativa | GPE       
+.               | PUNCT      | .               | .               | punct        | înfrunta   |           
+
+Chunks: va, deplasare, peste, circa, săptămâni, reprezentativa
+====================================================================================================
+
+Sentence 3: După anii 2000, Nicușor Dan a devenit una dintre cele mai importante voci civice ale societății românești.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+După            | ADP        | dup             | după            | case         | anii       |           
+anii            | NOUN       | ani             | an              | obl          | devenit    | DATETIME  
+2000            |            | 2000            | 2000            | nummod       | anii       | DATETIME  
+,               | PUNCT      | ,               | ,               | punct        | anii       |           
+Nicușor         | PROPN      | nicușor         | Nicușor         | nsubj        | devenit    | PERSON    
+Dan             | PROPN      | dan             | Dan             | flat         | Nicușor    | PERSON    
+a               | AUX        | a               | avea            | aux          | devenit    |           
+devenit         | VERB       | deven           | deveni          | ROOT         | devenit    |           
+una             | PRON       | una             | unul            | xcomp        | devenit    |           
+dintre          | ADP        | dintr           | dintre          | case         | voci       |           
+cele            | DET        | cel             | cel             | det          | importante |           
+mai             | ADV        | mai             | mai             | advmod       | importante |           
+importante      | ADJ        | import          | important       | amod         | voci       |           
+voci            | NOUN       | voc             | voce            | nmod         | una        |           
+civice          | ADJ        | civic           | civic           | amod         | voci       |           
+ale             | DET        | ale             | al              | det          | societății |           
+societății      | NOUN       | societăț        | societate       | nmod         | voci       |           
+românești       | ADJ        | româneșt        | românesc        | amod         | societății | NAT_REL_POL
+.               | PUNCT      | .               | .               | punct        | devenit    |           
+
+Chunks: anii, a devenit, una dintre, cele, mai, importante, voci, civice, ale, societății, românești
+====================================================================================================
+
+Sentence 4: Escaladarea conflictului din Iran pune Europa în stare de alertă maximă.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Escaladarea     | NOUN       | escalad         | escaladare      | nsubj        | pune       |           
+conflictului    | NOUN       | conflict        | conflict        | nmod         | Escaladarea |           
+din             | ADP        | din             | din             | case         | Iran       |           
+Iran            | PROPN      | iran            | Iran            | nmod         | conflictului | GPE       
+pune            | AUX        | pun             | pune            | ROOT         | pune       |           
+Europa          | PROPN      | europ           | Europa          | obj          | pune       | LOC       
+în              | ADP        | în              | în              | case         | stare      |           
+stare           | NOUN       | star            | stare           | obl          | pune       |           
+de              | ADP        | de              | de              | case         | alertă     |           
+alertă          | NOUN       | alert           | alertă          | nmod         | stare      |           
+maximă          | ADJ        | maxim           | maxim           | amod         | alertă     |           
+.               | PUNCT      | .               | .               | punct        | pune       |           
+
+Chunks: conflictului, din, pune, stare, maximă
+====================================================================================================
+
+Sentence 5: Ne-am putea confrunta cu cea mai gravă criză energetică din ultimii 35 de ani.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Ne-             | PRON       | ne-             | Ne-             | obj          | confrunta  |           
+am              | AUX        | am              | avea            | aux          | putea      |           
+putea           | VERB       | put             | putea           | ROOT         | putea      |           
+confrunta       | VERB       | confrunt        | confrunta       | ccomp        | putea      |           
+cu              | ADP        | cu              | cu              | case         | criză      |           
+cea             | DET        | cea             | cel             | det          | gravă      |           
+mai             | ADV        | mai             | mai             | advmod       | gravă      |           
+gravă           | ADJ        | grav            | grav            | amod         | criză      |           
+criză           | NOUN       | criz            | criză           | obl          | confrunta  |           
+energetică      | ADJ        | energet         | energetic       | amod         | criză      |           
+din             | ADP        | din             | din             | case         | ani        |           
+ultimii         | NUM        | ultim           | ultim           | nummod       | ani        | DATETIME  
+35              |            | 35              | 35              | nummod       | ani        | DATETIME  
+de              | ADP        | de              | de              | case         | 35         | DATETIME  
+ani             | NOUN       | ani             | an              | nmod         | criză      | DATETIME  
+.               | PUNCT      | .               | .               | punct        | putea      |           
+
+Chunks: Ne-am putea, confrunta, cu, cea, mai, gravă, criză, energetică, din, ani
+====================================================================================================
+
+Sentence 6: Producția de mașini electrice este în continuă creștere și dezvoltare de la an la an.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Producția       | NOUN       | producț         | producție       | nsubj        | creștere   |           
+de              | ADP        | de              | de              | case         | mașini     |           
+mașini          | NOUN       | mașin           | mașină          | nmod         | Producția  | PRODUCT   
+electrice       | ADJ        | electr          | electric        | amod         | mașini     | PRODUCT   
+este            | AUX        | este            | fi              | cop          | creștere   |           
+în              | ADP        | în              | în              | case         | continuă   |           
+continuă        | ADJ        | continu         | continuu        | amod         | creștere   |           
+creștere        | NOUN       | creșt           | creștere        | ROOT         | creștere   |           
+și              | CCONJ      | și              | și              | cc           | dezvoltare |           
+dezvoltare      | NOUN       | dezvolt         | dezvoltare      | conj         | creștere   |           
+de              | ADP        | de              | de              | case         | an         |           
+la              | ADP        | la              | la              | fixed        | de         |           
+an              | NOUN       | an              | an              | nmod         | dezvoltare |           
+la              | ADP        | la              | la              | case         | an         |           
+an              | NOUN       | an              | an              | nmod         | creștere   |           
+.               | PUNCT      | .               | .               | punct        | creștere   |           
+
+Chunks: electrice, este, continuă, dezvoltare, an la
+====================================================================================================
+
+Sentence 7: Lalelele pot fi oferite cu încredere atât iubitei, cât şi mamei sau prietenilor.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Lalelele        | NOUN       | lalel           | Lalelele        | nsubj        | pot        |           
+pot             | AUX        | pot             | putea           | ROOT         | pot        |           
+fi              | AUX        | fi              | fi              | aux:pass     | oferite    |           
+oferite         | VERB       | ofer            | oferi           | ccomp        | pot        |           
+cu              | ADP        | cu              | cu              | case         | încredere  |           
+încredere       | NOUN       | încred          | încredere       | obl          | oferite    |           
+atât            | ADV        | atât            | atât            | advmod       | iubitei    |           
+iubitei         | NOUN       | iubite          | iubită          | iobj         | pot        |           
+,               | PUNCT      | ,               | ,               | punct        | şi         |           
+cât             | ADV        | cât             | cât             | advmod       | şi         |           
+şi              | CCONJ      | şi              | şi              | conj         | iubitei    |           
+mamei           | NOUN       | mame            | mamă            | conj         | iubitei    |           
+sau             | CCONJ      | sau             | sau             | cc           | prietenilor |           
+prietenilor     | NOUN       | prieten         | prieten         | conj         | iubitei    | PERSON    
+.               | PUNCT      | .               | .               | punct        | pot        |           
+
+Chunks: pot, fi, oferite cu, iubitei, cât, mamei, sau, prietenilor
+====================================================================================================
+
+Sentence 8: Ca profesor, Creangă s-a ocupat îndeaproape de copii și le-a dezvoltat spiritul de observație.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Ca              | ADV        | ca              | ca              | advmod       | profesor   |           
+profesor        | NOUN       | profesor        | profesor        | obl          | ocupat     | PERSON    
+,               | PUNCT      | ,               | ,               | punct        | profesor   | PERSON    
+Creangă         | PROPN      | creang          | Creangă         | nsubj        | ocupat     | PERSON    
+s-              | PRON       | s-              | sine            | expl:pv      | ocupat     |           
+a               | AUX        | a               | avea            | aux          | ocupat     |           
+ocupat          | VERB       | ocup            | ocupa           | ROOT         | ocupat     |           
+îndeaproape     | ADV        | îndeaproap      | îndeaproape     | advmod       | ocupat     |           
+de              | ADP        | de              | de              | case         | copii      |           
+copii           | NOUN       | cop             | copil           | obl:pmod     | ocupat     | PERSON    
+și              | CCONJ      | și              | și              | cc           | dezvoltat  |           
+le-             | PRON       | le-             | el              | expl         | dezvoltat  |           
+a               | AUX        | a               | avea            | aux          | dezvoltat  |           
+dezvoltat       | VERB       | dezvolt         | dezvolta        | conj         | ocupat     |           
+spiritul        | NOUN       | spirit          | spirit          | obj          | dezvoltat  |           
+de              | ADP        | de              | de              | case         | observație |           
+observație      | NOUN       | observaț        | observație      | nmod         | spiritul   |           
+.               | PUNCT      | .               | .               | punct        | ocupat     |           
+
+Chunks: profesor, s-a ocupat, îndeaproape, și le-a dezvoltat, spiritul
+====================================================================================================
+
+Sentence 9: La o distanta de 31 de km de Cluj, Salina Turda este un muzeu de istorie a mineritului in sare.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+La              | ADP        | la              | la              | case         | distanta   |           
+o               | DET        | o               | un              | det          | distanta   | DATETIME  
+distanta        | ADJ        | distant         | distanta        | nmod         | muzeu      | DATETIME  
+de              | ADP        | de              | de              | case         | distanta   | DATETIME  
+31              |            | 31              | 31              | nummod       | km         | DATETIME  
+de              | ADP        | de              | de              | case         | 31         | DATETIME  
+km              | NOUN       | km              | kilometru       | nsubj        | distanta   | DATETIME  
+de              | ADP        | de              | de              | case         | Cluj       |           
+Cluj            | PROPN      | cluj            | Cluj            | nmod         | km         | GPE       
+,               | PUNCT      | ,               | ,               | punct        | distanta   |           
+Salina          | NOUN       | salin           | salină          | nsubj        | muzeu      | ORGANIZATION
+Turda           | PROPN      | turd            | Turda           | nmod         | Salina     | ORGANIZATION
+este            | AUX        | este            | fi              | cop          | muzeu      |           
+un              | DET        | un              | un              | det          | muzeu      |           
+muzeu           | NOUN       | muzeu           | muzeu           | ROOT         | muzeu      | FACILITY  
+de              | ADP        | de              | de              | case         | istorie    | FACILITY  
+istorie         | NOUN       | istor           | istorie         | nmod         | muzeu      | FACILITY  
+a               | DET        | a               | al              | det          | mineritului |           
+mineritului     | NOUN       | miner           | mineritu        | nmod         | istorie    |           
+in              | ADP        | in              | in              | case         | sare       |           
+sare            | NOUN       | sar             | sare            | nmod         | mineritului |           
+.               | PUNCT      | .               | .               | punct        | muzeu      |           
+
+Chunks: este, un muzeu, a mineritului, sare
+====================================================================================================
+
+Sentence 10: Muzica formaţiei a fost şi va fi apreciată şi iubită mereu.
+Token           | Pos-Tag    | Stemming        | Lemma           | Dep          | Head       | NER       
+----------------------------------------------------------------------------------------------------
+Muzica          | NOUN       | muzic           | muzică          | nsubj        | apreciată  |           
+formaţiei       | NOUN       | form            | formaţie        | nmod         | Muzica     |           
+a               | AUX        | a               | avea            | aux          | apreciată  |           
+fost            | AUX        | fost            | fi              | aux:pass     | apreciată  |           
+şi              | PRON       | şi              | şi              | cc           | apreciată  |           
+va              | AUX        | va              | vrea            | aux          | apreciată  |           
+fi              | AUX        | fi              | fi              | aux:pass     | apreciată  |           
+apreciată       | VERB       | aprec           | aprecia         | ROOT         | apreciată  |           
+şi              | CCONJ      | şi              | şi              | cc           | iubită     |           
+iubită          | ADJ        | iubit           | iubit           | conj         | apreciată  |           
+mereu           | ADV        | mereu           | mereu           | advmod       | iubită     | NAT_REL_POL
+.               | PUNCT      | .               | .               | punct        | apreciată  |           
+
+Chunks: a fost, şi, va, fi, apreciată, iubită, mereu
+====================================================================================================
+

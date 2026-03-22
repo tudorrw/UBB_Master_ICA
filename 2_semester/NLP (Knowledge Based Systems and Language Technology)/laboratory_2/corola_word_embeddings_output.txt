@@ -1,0 +1,310 @@
+Similar words (word) manevră:
+  manevră.             0.7496
+  manevra              0.6472
+  manevrăm             0.6421
+  Manevră              0.6288
+  manevr               0.5927
+  manevrã              0.5924
+  manevre              0.5918
+  manevrări            0.5707
+  manevra.             0.5660
+  manevrant            0.5590
+
+Similar words (lemma) manevră:
+  manevră.             0.7496
+  manevra              0.6472
+  manevrăm             0.6421
+  Manevră              0.6288
+  manevr               0.5927
+  manevrã              0.5924
+  manevre              0.5918
+  manevrări            0.5707
+  manevra.             0.5660
+  manevrant            0.5590
+
+Similar words (lemma + POS) manevră+ADJ:
+  manevrăm             0.7453
+  manevrări            0.7200
+  manevram             0.7156
+  manevră.             0.7134
+  manevrînd            0.6927
+  manevra.             0.6907
+  manevrările          0.6816
+  manevrã              0.6799
+  manevrase            0.6795
+  manevriere           0.6758
+
+
+
+Similar words (word) ușile:
+  usile                0.7054
+  ușa                  0.6683
+  uşile                0.6661
+  ușilor               0.6440
+  Ușile                0.6382
+  porțile              0.6375
+  geamurile            0.6199
+  uși                  0.6092
+  ferestrele           0.6084
+  clanțele             0.5923
+
+Similar words (lemma) ușă:
+  ușa                  0.7456
+  uşă                  0.7084
+  usa                  0.6563
+  ușă-n                0.6463
+  clanță               0.5910
+  clanța               0.5856
+  uși                  0.5761
+  ușiță                0.5733
+  uşa                  0.5555
+  ușii                 0.5547
+
+Similar words (lemma + POS) ușă+NOUN:
+  Llauta               0.8194
+  Amauta               0.7516
+  Serauta              0.7389
+  Atauta               0.7211
+  Parauta              0.7194
+  alauta               0.7184
+  Simauta              0.7106
+  tauta                0.7032
+  lauta                0.6705
+  Badauta              0.6664
+
+
+
+Similar words (word) sticle:
+  sticlele             0.7255
+  sticle.              0.6927
+  Sticle               0.6685
+  sticlelor            0.6644
+  sticluţe             0.6608
+  sticleţi             0.6349
+  pahare               0.6292
+  baxuri               0.6271
+  Sticlele             0.6242
+  sticle-n             0.6203
+
+Similar words (lemma) sticlă:
+  sticla               0.7783
+  sticlă-              0.7748
+  sticlă-n             0.7513
+  sticlă.              0.6996
+  sticla-              0.6740
+  sticlăoțeloțel       0.6728
+  stică                0.6673
+  sticlămetal          0.6644
+  sticlă-metal         0.6507
+  sticla-n             0.6460
+
+Similar words (lemma + POS) sticlă+NOUN:
+  sticlămetal          0.7801
+  sticlă-              0.7256
+  sticlăoțeloțel       0.7249
+  sticlă-n             0.7057
+  sticlăreni           0.6974
+  sticlă-metal         0.6940
+  sticlării            0.6670
+  sticlă.Dupa          0.6506
+  sticlăria            0.6456
+  cupru-bronz          0.6375
+
+
+
+
+
+Similar words (word) dărâmă:
+  Dărâmă               0.6893
+  dărâm                0.6872
+  dărâmăm              0.6830
+  dărâme               0.6471
+  dărâma               0.6468
+  demolează            0.6363
+  dărâmi               0.6241
+  dărâmând             0.6077
+  dărâmau              0.6061
+  dărâmaat             0.5836
+
+Similar words (lemma) dărâmă:
+  Dărâmă               0.6893
+  dărâm                0.6872
+  dărâmăm              0.6830
+  dărâme               0.6471
+  dărâma               0.6468
+  demolează            0.6363
+  dărâmi               0.6241
+  dărâmând             0.6077
+  dărâmau              0.6061
+  dărâmaat             0.5836
+
+Similar words (lemma + POS) dărâmă+NOUN:
+  dărâmaat             0.6974
+  dărâmară             0.6838
+  dărâmata             0.6724
+  dărâmaseră           0.6715
+  dărâmător            0.6695
+  ocupara              0.6539
+  dărâmări             0.6342
+  înnourează           0.6310
+  îngrozeste           0.6290
+  îngroapã             0.6254
+
+
+
+Similar words (word) citește:
+  recitește            0.6852
+  citeşte              0.6385
+  Recitește            0.6142
+  citește-l            0.6109
+  citește-i            0.5928
+  citește-o            0.5804
+  para-citește         0.5772
+  citeste              0.5569
+  răsfoiește           0.5509
+  1,44MBscrie          0.5381
+
+Similar words (lemma) citi:
+  reciti               0.7761
+  scrie                0.6912
+  citit                0.6845
+  citi.                0.6738
+  citesc               0.6674
+  citii                0.6600
+  citească             0.6599
+  citiŃi               0.6570
+  cititnd              0.6548
+  citi-o               0.6530
+
+Similar words (lemma + POS) citi+AUX:
+  citiŃi               0.8512
+  citiţ                0.8493
+  cititm               0.8353
+  citiþi               0.8167
+  cititǎ               0.7875
+  citim.               0.7555
+  citit-               0.7515
+  cititnd              0.7456
+  citior               0.7390
+  scriem.              0.7363
+
+
+
+Similar words (word) întristându-se:
+  întristând           0.9419
+  întristându-să       0.8465
+  mâhnindu-se          0.7024
+  întristă             0.6767
+  întrist              0.6727
+  supărându-se         0.6508
+  înspăimântându-se    0.6479
+  întristau            0.6411
+  întristate           0.6362
+  întristase           0.6333
+
+Similar words (lemma) întrista:
+  mâhni                0.7452
+  întrista.            0.7375
+  întristă             0.7162
+  întristai            0.6961
+  întristam            0.6959
+  întristata           0.6951
+  întristase           0.6925
+  întrist              0.6744
+  întristaþi           0.6643
+  întristat            0.6610
+
+Similar words (lemma + POS) întrista+VERB:
+  întristai            0.8025
+  întristata           0.8002
+  întrista.            0.7936
+  întrist              0.7828
+  întristaþi           0.7777
+  întristăciune        0.7405
+  întristam            0.7399
+  întristară           0.7394
+  întristate           0.7302
+  întristase           0.7089
+
+
+
+
+
+Similar words (word) nobil:
+  -nobil               0.6624
+  nobilul              0.6284
+  nobiliar             0.5997
+  nobilului            0.5959
+  nenobil              0.5884
+  ignobil              0.5624
+  aristocrat           0.5502
+  nobil.               0.5484
+  nobile               0.5438
+  arist                0.5388
+
+Similar words (lemma) nobil:
+  -nobil               0.6624
+  nobilul              0.6284
+  nobiliar             0.5997
+  nobilului            0.5959
+  nenobil              0.5884
+  ignobil              0.5624
+  aristocrat           0.5502
+  nobil.               0.5484
+  nobile               0.5438
+  arist                0.5388
+
+Similar words (lemma + POS) nobil+ADJ:
+  nobilem              0.7504
+  nobilum              0.7102
+  nobililea            0.6763
+  nobilu               0.6730
+  nobi                 0.6724
+  nobiliaro-birocratică 0.6682
+  nobilitas            0.6666
+  nobilor              0.6447
+  nobilǎ               0.6445
+  nobili.              0.6403
+
+
+
+Similar words (word) mândru:
+  mândră               0.6531
+  mândru.              0.6247
+  mândr                0.6230
+  mândră.              0.6192
+  bucuros              0.6177
+  mandru               0.6176
+  mândruțo             0.6153
+  mândrã               0.6144
+  mândruţa             0.6072
+  mândri               0.6018
+
+Similar words (lemma) mândru:
+  mândră               0.6531
+  mândru.              0.6247
+  mândr                0.6230
+  mândră.              0.6192
+  bucuros              0.6177
+  mandru               0.6176
+  mândruțo             0.6153
+  mândrã               0.6144
+  mândruţa             0.6072
+  mândri               0.6018
+
+Similar words (lemma + POS) mândru+ADJ:
+  mândruțe             0.8089
+  mândruţa             0.7857
+  mândruța             0.7808
+  mândru.              0.7763
+  mândruţă             0.7738
+  mândră.              0.7714
+  mândru-n             0.7598
+  mândrã               0.7582
+  mândruțo             0.7545
+  mândruță             0.7448
+
+
+
+
+

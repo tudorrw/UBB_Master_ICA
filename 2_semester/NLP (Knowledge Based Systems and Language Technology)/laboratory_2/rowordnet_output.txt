@@ -1,0 +1,1041 @@
+Part of Speech: nouns
+Word: 'manevră'
+Synset ID 'ENG30-00959992-n'
+Literal ['manevră']; Literal Senses: ['2']; Definition: Pregătire tactică a unei armate sau a unei flote, în condiții asemănătoare cu cele de război
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['operație', 'operațiune'] (Acțiune militară de mare amploare, în vederea realizării unui plan strategic sau a sarcinilor subordonate acesteia)
+  - Relation [part_holonym] -> to synset ['instrucție'] (Pregătire a ostașilor în vederea însușirii teoriei și practicii militare.)
+  - Relation [domain_TOPIC] -> to synset ['armată', 'forță_armată', 'trupă'] (Totalitatea forțelor militare ale unui stat; oaste, oștire, armie)
+  - Relation [near_eng_derivat] -> to synset ['face_manevre'] (a face mișcări de trupe în așa fel încât să obțină un avantaj pe câmpul de luptă)
+Hierarchy tree:
+entitate
+   |_ abstractizare
+      |_ trăsătură_psihologică
+         |_ event
+            |_ faptă
+               |_ îndeletnicire
+                  |_ operație
+                     |_ [manevră]
+                        |_ (none)
+
+
+Synset ID 'ENG30-00168237-n'
+Literal ['manevră']; Literal Senses: ['x']; Definition: mișcare tactică prin care se ajunge la un rezultat mai bun în timp mai scurt
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['mișcare', 'gest'] (actul cuiva de a decide să facă ceva; " n-a făcut nici o mișcare să o ajute ", " prima sa mișcare a fost să angajeze un avocat ";)
+  - Relation [hyponym] -> to synset ['parca'] (acțiunea de a manevra un vehicul către un loc în care poate staționa temporar)
+  - Relation [hyponym] -> to synset ['șiretlic', 'șmecherie', 'tertip', 'truc', 'vicleșug'] (Manevră abilă prin care cineva încearcă să mascheze realitatea)
+  - Relation [hyponym] -> to synset ['stratagemă', 'tertip', 'truc', 'șiretlic', 'vicleșug', 'manevră'] (Manevră abilă prin care cineva încearcă să mascheze realitatea)
+  - Relation [hyponym] -> to synset ['stratagemă', 'subterfugiu'] (Manevră abilă prin care cineva încearcă să mascheze realitatea)
+  - Relation [hyponym] -> to synset ['strategie', 'stratagemă'] (Manevră folosită în sport sau în conversație în vederea obținerii unui avantaj ori pentru a-ți evidenția superioritatea)
+  - Relation [hyponym] -> to synset ['eschivă', 'fentă'] (Manevră dibace, făcută pentru a evita capturarea)
+  - Relation [hyponym] -> to synset ['pas'] (etapă ca parte a unui progres înspre un scop)
+Hierarchy tree:
+entitate
+   |_ abstractizare
+      |_ trăsătură_psihologică
+         |_ event
+            |_ faptă
+               |_ acțiune
+                  |_ alegere
+                     |_ hotărâre
+                        |_ mișcare
+                           |_ [manevră]
+                              |_ parca
+                              |_ șiretlic
+                              |_ stratagemă
+                              |_ stratagemă
+                              |_ strategie
+                              |_ eschivă
+                              |_ pas
+
+
+Synset ID 'ENG30-00059552-n'
+Literal ['manevră']; Literal Senses: ['x']; Definition: Acțiune menită a scăpa pe cineva de un oponent
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['debarasare', 'descotorosire'] (Acțiunea de a scăpa, de a se elibera de cineva sau de ceva care supără, care incomodează)
+  - Relation [hyponym] -> to synset ['prindere'] ((box) acțiunea unui boxer de a-și prinde partenerul și a-l ține pentru a evita loviturile și a se odihni)
+  - Relation [hyponym] -> to synset ['manevră_de_zbor'] (manevră executată de un aparat de zbor)
+  - Relation [hyponym] -> to synset [] (Poziție de apărare la fotbalul american)
+Hierarchy tree:
+entitate
+   |_ abstractizare
+      |_ trăsătură_psihologică
+         |_ event
+            |_ faptă
+               |_ fugă
+                  |_ evadare
+                     |_ debarasare
+                        |_ [manevră]
+                           |_ prindere
+                           |_ manevră_de_zbor
+                           |_ Poziție de apărare la fotbalul american
+
+
+Synset ID 'ENG30-00713594-n'
+Literal ['manevrare', 'manevră', 'manipulare', 'mânuire']; Literal Senses: ['1.2', '4', 'x', '1.x']; Definition: realizarea manuală a unei acțiuni
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['lucru_manual'] (lucru făcut cu mâinile)
+  - Relation [hyponym] -> to synset ['manevrare', 'manipulare'] (Acțiunea de a încărca, descărca sau muta lucruri în interiorul unei fabrici sau depozit cu ajutorul unor sisteme mecanice)
+  - Relation [hyponym] -> to synset ['încărcare'] (Acțiunea de a (se) încărca)
+  - Relation [hyponym] -> to synset ['descărcare', 'descărcat'] (Acțiunea de a (se) descărca și rezultatul ei)
+Hierarchy tree:
+entitate
+   |_ abstractizare
+      |_ trăsătură_psihologică
+         |_ event
+            |_ faptă
+               |_ îndeletnicire
+                  |_ lucru
+                     |_ lucru
+                        |_ lucru_manual
+                           |_ [manevră]
+                              |_ manevrare
+                              |_ încărcare
+                              |_ descărcare
+
+
+Synset ID 'ENG30-00172073-n'
+Literal ['stratagemă', 'tertip', 'truc', 'șiretlic', 'vicleșug', 'manevră']; Literal Senses: ['1.x', '1.x', '1.1.2', '1.x', 'x', '7.2']; Definition: Manevră abilă prin care cineva încearcă să mascheze realitatea
+PNO (Positive: 0.0, Negative: 0.125, Objective: 0.875)
++ Relations
+  - Relation [hypernym] -> to synset ['manevră'] (mișcare tactică prin care se ajunge la un rezultat mai bun în timp mai scurt)
+  - Relation [near_eng_derivat] -> to synset ['[se] face', '[se] preface', 'simula'] (a da, în mod intenționat, o impresie falsă.)
+  - Relation [hyponym] -> to synset ['fentă', 'dribling'] (Procedeu tehnic care cuprinde un complex de mișcări, executat rapid, în scopul inducerii în eroare a adversarului și al obținerii unui avantaj asupra acestuia.)
+Hierarchy tree:
+entitate
+   |_ abstractizare
+      |_ trăsătură_psihologică
+         |_ event
+            |_ faptă
+               |_ acțiune
+                  |_ alegere
+                     |_ hotărâre
+                        |_ mișcare
+                           |_ manevră
+                              |_ [manevră]
+                                 |_ fentă
+
+
+
+
+Word: 'ușă'
+Synset ID 'ENG30-03224032-n'
+Literal ['cadru', 'prag', 'ușă']; Literal Senses: ['2.2', '7.1', '1.1']; Definition: Deschizătură a zidului ocupată de o ușă sau de o fereastră. " Intră, te rog, de ce stai în ușă? ".
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['acces', 'intrare'] (loc (special amenajat) prin care se trece din afară înăuntru)
+  - Relation [part_holonym] -> to synset ['perete', 'zid'] (Element de construcție așezat vertical (sau puțin înclinat), făcut din zidărie, din lemn, din piatră etc., care limitează, separă sau izolează încăperile unei clădiri între ele sau de exterior și care susține planșeele, etajele și acoperișul)
+  - Relation [part_meronym] -> to synset ['cadru', 'cercevea', 'toc', 'pervaz'] (Cadru de lemn sau de metal în care se fixează, la o construcție, ferestrele și ușile)
+  - Relation [part_meronym] -> to synset ['ușă'] (Tăblia care închide cadrul fix prin care se face accesul în și dintr-o cameră sau clădire.)
+  - Relation [part_meronym] -> to synset ['toc', 'toc_de_ușă'] (Cadru de lemn sau de metal în care se fixează, la o construcție, ferestrele și ușile)
+  - Relation [part_meronym] -> to synset ['prag'] (Partea de jos, orizontală, a unui toc de ușă sau a unei porți, puțin mai ridicată de la pământ, peste care se trece la intrare și la ieșire.)
+  - Relation [hyponym] -> to synset ['ușă_exterioară'] (Ușă care permite ieșirea și intrarea inrtr-o sau dintr-o casă sau clădire)
+Hierarchy tree:
+lucru
+   |_ ansamblu
+      |_ artifact
+         |_ cale
+            |_ acces
+               |_ acces
+                  |_ [ușă]
+                     |_ ușă_exterioară
+
+
+Synset ID 'ENG30-03221720-n'
+Literal ['ușă']; Literal Senses: ['1.3']; Definition: Tăblia care închide cadrul fix prin care se face accesul în și dintr-o cameră sau clădire.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['barieră_mobilă'] (Barieră care se poate mișca pentru a permite trecerea.)
+  - Relation [part_holonym] -> to synset ['cadru', 'prag', 'ușă'] (Deschizătură a zidului ocupată de o ușă sau de o fereastră. " Intră, te rog, de ce stai în ușă? ".)
+  - Relation [hyponym] -> to synset ['portieră'] (ușa mașinii)
+  - Relation [hyponym] -> to synset ['ușă_dublă'] (ansamblu alcătuit din două uși care se întâlnesc pe mijlocul cadrului când sunt închise)
+  - Relation [hyponym] -> to synset ['ușă_interioară'] (Ușă care închide camerele din interiorul unei case sau clădiri)
+  - Relation [part_meronym] -> to synset ['încuietoare'] (Încuietoare la uși constând într-o mică bară mobilă care intră într-o ureche fixată în toc)
+  - Relation [hyponym] -> to synset ['ecran', 'paravan'] (ușă cu rol de paravan, care nu permite insectelor să pătrundă într-o clădire)
+  - Relation [hyponym] -> to synset ['ușă_glisantă'] (ușă care se deschide prin glisare)
+  - Relation [hyponym] -> to synset ['ușă_batantă', 'batant'] ((Despre uși, ferestre, capace etc.) Care se închide singur, printr-o mișcare de du-te-vino în jurul unei axe verticale situate la una dintre margini)
+  - Relation [hyponym] -> to synset ['chepeng', 'trapă'] (Ușă, capac etc. fixat în plan orizontal, care închide o deschizătură practicată la nivelul solului, într-un planșeu, în puntea unei nave etc.)
+Hierarchy tree:
+lucru
+   |_ ansamblu
+      |_ artifact
+         |_ construcție
+            |_ obstacol
+               |_ barieră
+                  |_ barieră_mobilă
+                     |_ [ușă]
+                        |_ portieră
+                        |_ ușă_dublă
+                        |_ ușă_interioară
+                        |_ ecran
+                        |_ ușă_glisantă
+                        |_ ușă_batantă
+                        |_ chepeng
+
+
+Synset ID 'ENG30-03222176-n'
+Literal ['ușă']; Literal Senses: ['6.x']; Definition: cameră în care se intră printr-o ușă; exemplu : biroul lui este a treia ușă pe stânga
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['încăpere', 'odaie'] (Încăpere într-o clădire)
+Hierarchy tree:
+lucru
+   |_ ansamblu
+      |_ artifact
+         |_ construcție
+            |_ porțiune
+               |_ încăpere
+                  |_ [ușă]
+                     |_ (none)
+
+
+Synset ID 'ENG30-03222318-n'
+Literal ['ușă', 'intrare', 'număr']; Literal Senses: ['6', 'x', 'x']; Definition: spațiu de locuit sau de lucru (de obicei numerotat de-a lungul unei străzi)
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['construcție'] (lucru construit)
+Hierarchy tree:
+lucru
+   |_ ansamblu
+      |_ artifact
+         |_ construcție
+            |_ [ușă]
+               |_ (none)
+
+
+Synset ID 'ENG30-05180881-n'
+Literal ['ușă', 'poartă']; Literal Senses: ['5.1', '6']; Definition: (figurativ) Cale de acces
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['acces', 'intrare'] (Posibilitatea de a pătrunde, drept de a ajunge până într-un loc sau până la o persoană)
+Hierarchy tree:
+entitate
+   |_ abstractizare
+      |_ trăsătură_psihologică
+         |_ înțelegere
+            |_ conținut_cognitiv
+               |_ gând
+                  |_ concept
+                     |_ abstracțiune
+                        |_ drept
+                           |_ acces
+                              |_ [ușă]
+                                 |_ (none)
+
+
+
+
+Word: 'sticlă'
+Synset ID 'ENG30-03636891-n'
+Literal ['sticlă']; Literal Senses: ['5']; Definition: Sticlă de lampă = glob de sticlă cu gât lung, care protejează flacăra lămpii cu petrol.;
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['canal'] (Parte a coșului de fum la o casă, constituită din canalul îngropat în zidărie (și din porțiunea ieșită în afară prin acoperiș))
+  - Relation [part_holonym] -> to synset ['lampă_cu_ulei', 'lampă_pe_ulei'] (lampă care arde ulei pentru a produce lumină)
+Hierarchy tree:
+lucru
+   |_ ansamblu
+      |_ artifact
+         |_ cale
+            |_ pasaj
+               |_ conductă
+                  |_ canal
+                     |_ [sticlă]
+                        |_ (none)
+
+
+Synset ID 'ENG30-13765396-n'
+Literal ['sticlă']; Literal Senses: ['9']; Definition: Conținutul unei sticle.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['conținut'] (Ceea ce încape într-un spațiu limitat, în special într-un recipient)
+  - Relation [near_eng_derivat] -> to synset ['pune_în_sticlă', 'umple_sticla'] (a pune ceva (de obicei lichid) într-o sticlă)
+  - Relation [hyponym] -> to synset ['sticlă_mică', 'sticlă_de_jumătate'] (o sticlă conținând jumătate din cantitatea obișnuită)
+Hierarchy tree:
+entitate
+   |_ abstractizare
+      |_ cantitate
+         |_ cantitate_neclară
+            |_ conținut
+               |_ [sticlă]
+                  |_ sticlă_mică
+
+
+Synset ID 'ENG30-14881303-n'
+Literal ['sticlă']; Literal Senses: ['1']; Definition: Substanță solidă, amorfă, transparentă, translucidă sau opacă, dură, cu un luciu particular, lipsită de flexibilitate, casantă, rău conducătoare de căldură și de electricitate, formată dintr-un amestec de silicați și obținută prin topire.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['solid'] ((Corp) care posedă capacitatea de a-și menține forma și dimensiunile, de a se opune forțelor deformatoare, având o structură compactă și o mare coeziune)
+  - Relation [substance_holonym] -> to synset ['sticlărie'] (Obiecte fabricate din sticlă; obiecte de sticlă adunate la un loc.;)
+  - Relation [part_holonym] -> to synset ['pahar'] (Vas de sticlă, de metal, de material plastic etc., de diferite forme sau mărimi, din care se bea apă sau alte lichide; (prin extensiune) conținutul unui asemenea vas)
+  - Relation [near_eng_derivat] -> to synset ['vitra'] (A închide cu geam)
+  - Relation [near_eng_derivat] -> to synset ['vitra'] (A îmbrăca în geam)
+  - Relation [substance_holonym] -> to synset ['sticlă_plană'] (sticlă în foi mari, subţiri)
+  - Relation [hyponym] -> to synset ['sticlă_naturală'] (magmă care se răcește foarte repede)
+  - Relation [hyponym] -> to synset ['sticlă_opală', 'sticlă_lăptoasă', 'sticlă_opalescentă'] (sticlă de un alb lăptos, translucid sau opac)
+  - Relation [hyponym] -> to synset ['sticlă_colorată'] (sticlă de diferite culori folosită la confecționarea unui vitraliu)
+  - Relation [hyponym] -> to synset ['pirex'] (sticlă rezistentă la variații bruște de temperatură, pentru aparate de laborator)
+Hierarchy tree:
+materie
+   |_ solid
+      |_ [sticlă]
+         |_ sticlă_naturală
+         |_ sticlă_opală
+         |_ sticlă_colorată
+         |_ pirex
+
+
+Synset ID 'ENG30-02876657-n'
+Literal ['butelie', 'sticlă']; Literal Senses: ['2', '7']; Definition: Vas înalt (de formă cilindrică), cu gât îngust, făcut din sticlă, care servește la păstrarea lichidelor
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['recipient', 'vas'] (Obiect destinat pentru păstrarea și transportarea unui lichid)
+  - Relation [near_eng_derivat] -> to synset [] (a păstra (lichide sau gaze) în sticle)
+  - Relation [near_eng_derivat] -> to synset ['pune_în_sticlă', 'umple_sticla'] (a pune ceva (de obicei lichid) într-o sticlă)
+  - Relation [hyponym] -> to synset ['sticlă_de_bere'] (sticlă ce conține bere)
+  - Relation [hyponym] -> to synset ['carafă'] (Sticlă cu gâtul lung și cu partea de jos bombată, folosită mai ales pentru servirea vinului sau a apei)
+  - Relation [hyponym] -> to synset [] (Sticlă cu gâtul îngust)
+  - Relation [hyponym] -> to synset ['tărtăcuță'] (Recipient făcut din fructul de tărtăcuță)
+  - Relation [hyponym] -> to synset ['călimară'] (Vas mic de sticlă, de metal, de material plastic etc., în care se ține cerneala.)
+  - Relation [hyponym] -> to synset ['ulcior', 'urcior'] (Vas de lut (smălțuit) cu gâtul strâmt, cu una sau două toarte, folosit pentru păstrarea lichidelor)
+  - Relation [part_meronym] -> to synset ['gură'] (Deschizătura unui vas (borcan, sticlă))
+  - Relation [hyponym] -> to synset ['fiolă'] (Flacon (mic) de sticlă, cu gâtul strâmt, închis ermetic, în care se păstrează de obicei medicamente (în special lichide sau pulberi sterile injectabile))
+  - Relation [hyponym] -> to synset ['sticlă_de_apă'] (Sticlă în care se ține apa)
+  - Relation [hyponym] -> to synset ['sticlă_de_vin'] (sticlă în care se îmbuteliază vin)
+Hierarchy tree:
+lucru
+   |_ ansamblu
+      |_ artifact
+         |_ instrument
+            |_ container
+               |_ recipient
+                  |_ [sticlă]
+                     |_ sticlă_de_bere
+                     |_ carafă
+                     |_ Sticlă cu gâtul îngust
+                     |_ tărtăcuță
+                     |_ călimară
+                     |_ ulcior
+                     |_ fiolă
+                     |_ sticlă_de_apă
+                     |_ sticlă_de_vin
+
+
+Synset ID 'ENG30-03142679-n'
+Literal ['sticlă', 'sticlă_de_ceas']; Literal Senses: ['x', 'x']; Definition: capac protector montat pe fața unui ceas de mână
+PNO (Positive: 0.0, Negative: 0.25, Objective: 0.75)
++ Relations
+  - Relation [hypernym] -> to synset ['înveliș_protector'] (înveliș menit să protejeze împotriva avariilor)
+  - Relation [part_holonym] -> to synset ['ceas', 'ceas_de_mână'] (Aparat care servește la determinarea și măsurarea timpului în limitele unei zile)
+Hierarchy tree:
+lucru
+   |_ ansamblu
+      |_ artifact
+         |_ înveliș
+            |_ înveliș_protector
+               |_ [sticlă]
+                  |_ (none)
+
+
+Synset ID 'ENG30-13766080-n'
+Literal ['sticlă']; Literal Senses: ['6.x']; Definition: Cantitate care intră într-o sticlă de plastic mică
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['conținut'] (Ceea ce încape într-un spațiu limitat, în special într-un recipient)
+Hierarchy tree:
+entitate
+   |_ abstractizare
+      |_ cantitate
+         |_ cantitate_neclară
+            |_ conținut
+               |_ [sticlă]
+                  |_ (none)
+
+
+
+
+
+
+Part of Speech: verbs
+Word: 'dărâma'
+Synset ID 'ENG30-01989053-v'
+Literal ['prăbuși', 'ruina', 'nărui', 'dărâma']; Literal Senses: ['x', '1.x', '1.2', '1.2']; Definition: A cădea sau decădea, literal sau metaforic; " Afacerea s-a năruit "; " Acoperișul casei s-a dărâmat "; " Imperiul financiar s-a prăbușit ".
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['[se] schimba'] (A-și modifica aspectul, firea, conduita etc.)
+  - Relation [near_eng_derivat] -> to synset ['dărâmare', 'năruire', 'prăbușire', 'surpare'] ((Despre ziduri, clădiri etc.) Acțiunea de a se dărâma, a se prăbuși, a se nărui, a se surpa)
+  - Relation [near_eng_derivat] -> to synset ['colaps'] (O prăbușire a mediului afacerilor sau a prețului fondurilor (în special al celor care cauzează neajunsuri suplimentare))
+  - Relation [near_eng_derivat] -> to synset ['prăbușire', 'cădere'] (Accident cauzat de ceva care se prăbușește, se năruiește brusc.)
+  - Relation [hyponym] -> to synset ['face_implozie'] (a exploda în interior)
+  - Relation [verb_group] -> to synset ['abandona', 'renunța'] (A nu mai insista, a nu mai susține)
+  - Relation [hyponym] -> to synset ['îndoi'] ( a strânge ceva de două sau de mai multe ori ( punând marginile una peste alta). )
+  - Relation [hyponym] -> to synset ['|se| prăbuși', '|se| trânti', 'prăvăli'] (A se așeza brusc pe ceva, lăsându-se cu toată greutatea corpului.)
+  - Relation [hyponym] -> to synset ['[se] frânge', '[se] rupe', '[se] sparge'] ((Despre o masă de apă, despre valuri) A se lovi (de mal, de stânci etc.), împrăștiindu-se în valuri mici)
+  - Relation [hyponym] -> to synset ['|se| prăbuși'] (A cădea sau a face să cadă brusc și cu zgomot ( de la înălțime))
+  - Relation [verb_group] -> to synset ['plesni'] (A sparge (cu violență și de obicei cu zgomot) din cauza unei presiuni prea mari)
+Hierarchy tree:
+[se] schimba
+   |_ [dărâma]
+      |_ face_implozie
+      |_ îndoi
+      |_ |se| prăbuși
+      |_ [se] frânge
+      |_ |se| prăbuși
+
+
+Synset ID 'ENG30-01370126-v'
+Literal ['dărâma', 'doborî']; Literal Senses: ['1.1', '1']; Definition: a provoca o cădere sau o prăbușire
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [cause] -> to synset ['[se] ruina'] (A se preface în ruină)
+  - Relation [hypernym] -> to synset ['distruge', 'face_praf'] (A face să nu mai existe, stricând, spărgând, dărâmând etc.)
+Hierarchy tree:
+distruge
+   |_ distruge
+      |_ [dărâma]
+         |_ (none)
+
+
+Synset ID 'ENG30-01661804-v'
+Literal ['dărâma', 'face_una_cu_pământul']; Literal Senses: ['1.1.x', '1']; Definition: A doborî, a culca la pământ
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['distruge'] (A face să nu mai existe (stricând, spărgând, dărâmând etc.))
+  - Relation [near_eng_derivat] -> to synset ['radere'] (evenimentul prin care o construcție este complet demolată și locul pe care a fost este nivelat)
+  - Relation [near_eng_derivat] -> to synset ['dărâmare', 'demolare'] (Distrugerea completă a unei clădiri)
+  - Relation [near_eng_derivat] -> to synset ['suprafață_orizontală'] (suprafață plană care formează unghi drept cu firul de plumb.)
+  - Relation [near_eng_derivat] -> to synset ['cumpănă', 'nivelă_cu_bule_de_aer'] (Nume dat unor instrumente folosite la verificarea direcției orizontale sau verticale a unui obiect)
+  - Relation [near_antonym] -> to synset ['clădi', 'construi', 'dura', 'face', 'înălța', 'ridica', 'zidi'] (A face, a ridica o construcție, o clădire)
+  - Relation [hyponym] -> to synset [] (A turti ca și cum ar trece cu buldozerul peste ceva)
+Hierarchy tree:
+distruge
+   |_ [dărâma]
+      |_ A turti ca și cum ar trece cu buldozerul peste ceva
+
+
+
+
+Word: 'citi'
+Synset ID 'ENG30-00626428-v'
+Literal ['citi']; Literal Senses: ['2']; Definition: A rosti, a urmări un text cu glas tare pentru a comunica cuiva conținutul lui.;
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['spune', 'vorbi', 'zice'] (A exprima prin viu grai un gând, o părere)
+  - Relation [near_eng_derivat] -> to synset ['alfabetizat'] (Persoană care știe să citească)
+  - Relation [near_eng_derivat] -> to synset ['cititor'] (Persoană care citește.)
+  - Relation [near_eng_derivat] -> to synset ['declamare', 'recitare', 'poezie'] (acțiunea de a repeta în public (din memorie) ceva pregătit dinainte)
+  - Relation [verb_group] -> to synset ['citi'] (A parcurge un text (pronunțând cuvintele sau nu) pentru a lua cunoștință de cele scrise.)
+  - Relation [hyponym] -> to synset ['dicta'] (A pronunța rar și deslușit cuvintele unei fraze, ale unui text, pentru ca ascultătorul să le poată scrie întocmai)
+  - Relation [hyponym] -> to synset ['striga', 'face_prezența', 'face_apelul'] (a face apelul nominal)
+Hierarchy tree:
+acționa
+   |_ interacționa
+      |_ mărturisi
+         |_ spune
+            |_ [citi]
+               |_ dicta
+               |_ striga
+
+
+Synset ID 'ENG30-00625119-v'
+Literal ['citi']; Literal Senses: ['1']; Definition: A parcurge un text (pronunțând cuvintele sau nu) pentru a lua cunoștință de cele scrise.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [verb_group] -> to synset ['citi'] (A rosti, a urmări un text cu glas tare pentru a comunica cuiva conținutul lui.;)
+  - Relation [verb_group] -> to synset ['[se] citi'] (a avea o anumită formulare, redactare sau exprimare)
+  - Relation [hypernym] -> to synset ['interpreta', 'înțelege', 'tălmăci', 'tâlcui'] (A da un anumit înțeles, o anumită semnificație unui lucru.)
+  - Relation [near_eng_derivat] -> to synset ['lectură'] (ceva care este citit)
+  - Relation [near_eng_derivat] -> to synset ['alfabetizat'] (Persoană care știe să citească)
+  - Relation [near_eng_derivat] -> to synset ['cititor'] (Persoană care citește.)
+  - Relation [near_eng_derivat] -> to synset ['citit'] (procesul cognitiv de înțelegere a unui mesaj lingvistic scris)
+  - Relation [hyponym] -> to synset ['anagrama', 'anagramatiza'] (A schimba ordinea literelor unui cuvânt pentru a obține alt cuvânt)
+  - Relation [hyponym] -> to synset ['reciti'] (A citi din nou același text.)
+  - Relation [hyponym] -> to synset ['citi_pe_diagonală'] (A citi un text pe sărite)
+  - Relation [hyponym] -> to synset ['descifra'] (desluși un text neciteț sau scris într-o limbă străină, cu caractere complicate sau cu semne convenționale. " Scrierea miceniană a fost descifrată demult ".)
+  - Relation [hyponym] -> to synset ['frunzări', 'răsfoi'] (a citi superficial)
+Hierarchy tree:
+înțelege
+   |_ interpreta
+      |_ [citi]
+         |_ anagrama
+         |_ reciti
+         |_ citi_pe_diagonală
+         |_ descifra
+         |_ frunzări
+
+
+Synset ID 'ENG30-00627091-v'
+Literal ['citi']; Literal Senses: ['5.2']; Definition: Expresie : A citi (cuiva) în palmă
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [verb_group] -> to synset ['lua'] (A înțelege, a interpreta într-un anumit mod)
+  - Relation [hypernym] -> to synset ['anticipa', 'prognostica', 'pronostica', 'profetiza', 'profeți', 'proroci'] (A anunța, a vesti apariția în viitor a unor evenimente, fenomene etc.)
+Hierarchy tree:
+chibzui
+   |_ raționa
+      |_ specula
+         |_ speculație
+            |_ anticipa
+               |_ [citi]
+                  |_ (none)
+
+
+Synset ID 'ENG30-00607114-v'
+Literal ['citi', 'învăța', 'studia', '[se] pune_cu_burta_pe_carte']; Literal Senses: ['3', '3.2.x', '1.2', 'x']; Definition: A învăța, a studia (parcurgând scrieri, izvoare etc.).
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [entailment] -> to synset ['citi'] (A parcurge un text (pronunțând cuvintele sau nu) pentru a lua cunoștință de cele scrise.)
+  - Relation [hypernym] -> to synset ['deprinde', 'învăța'] (A dobândi cunoștințe prin studiu, a ajunge prin muncă sistematică să cunoști o meserie, o artă, o limbă etc.)
+  - Relation [near_eng_derivat] -> to synset ['învățare', 'studiere', 'studiu', 'învățătură', 'pregătire'] (folosirea minții pentru învățarea și înțelegerea unui subiect (mai ales citind))
+  - Relation [near_eng_derivat] -> to synset ['lectură_atentă'] (faptul de a citi cu atenție, pentru a reține)
+  - Relation [hyponym] -> to synset ['memora', 'memoriza', 'învăța_pe_de_rost'] (a reține informații în memorie)
+  - Relation [hyponym] -> to synset ['toci', 'îngrășa_porcul_în_ajun'] ((cu sens atenuat) a insista îndelung în învățarea unei lecții, unei materii etc.)
+Hierarchy tree:
+deprinde
+   |_ [citi]
+      |_ memora
+      |_ toci
+
+
+Synset ID 'ENG30-01718755-v'
+Literal ['citi']; Literal Senses: ['x']; Definition: a participa la o audiție pentru un rol pe scenă prin citirea unei părți din rol
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['audiție'] (a interpreta un fragment dintr-un rol în fața unei comisii pentru a fi distribuit într-un film, într-o piesă de teatru etc.)
+  - Relation [domain_TOPIC] -> to synset ['artele_spectacolului'] (artele sau competenţele cerute de un spectacol)
+Hierarchy tree:
+crea
+   |_ recrea
+      |_ interpreta
+         |_ audiție
+            |_ [citi]
+               |_ (none)
+
+
+Synset ID 'ENG30-00627520-v'
+Literal ['citi', 'scana']; Literal Senses: ['10', '1']; Definition: a obține date folosind suporturi magnetice
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['interpreta', 'înțelege', 'tălmăci', 'tâlcui'] (A da un anumit înțeles, o anumită semnificație unui lucru.)
+Hierarchy tree:
+înțelege
+   |_ interpreta
+      |_ [citi]
+         |_ (none)
+
+
+
+
+Word: 'conduce'
+Synset ID 'ENG30-02505358-v'
+Literal ['conduce', 'mâna']; Literal Senses: ['3', '8.x']; Definition: a fi purtat sau a se lăsa purtat de o forță coercitivă ori de un sentiment puternic
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['constrânge', 'face', 'forța', 'obliga', 'sili'] (A sili pe cineva să facă un lucru pe care nu l-ar face de bunăvoie)
+  - Relation [near_eng_derivat] -> to synset ['impuls'] (Stare fiziologică corespunzătoare unei necesități sau dorințe puternice. " După atâta foamete nu și-a putut stăpâni impulsul de a se repezi la mâncare ")
+  - Relation [verb_group] -> to synset ['face'] (Expresie : Nu mă face să plec.)
+  - Relation [verb_group] -> to synset ['aduce', 'face'] (A face ca cineva să ia o anumită hotărâre.;)
+Hierarchy tree:
+determina
+   |_ constrânge
+      |_ constrânge
+         |_ [conduce]
+            |_ (none)
+
+
+Synset ID 'ENG30-01930874-v'
+Literal ['conduce', 'șofa']; Literal Senses: ['5.x', '1']; Definition: A dirija mersul unui vehicul, al unei mașini etc.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [verb_group] -> to synset ['[se] conduce'] (a avea anumite proprietăți când este condus)
+  - Relation [hypernym] -> to synset ['comanda', 'controla', 'regla'] (a realiza sau a reface starea unui sistem tehnic ale cărui mărimi caracteristice s-au abătut de la anumite condiții impuse.)
+  - Relation [near_eng_derivat] -> to synset ['condus', 'mânat', 'mânare'] (acțiunea de a controla și de a dirija mișcarea unui vehicul sau a unui animal  )
+  - Relation [near_eng_derivat] -> to synset ['alee'] (stradelă, intrare.;)
+  - Relation [near_eng_derivat] -> to synset ['alee'] (stradă îngustă și scurtă;)
+  - Relation [near_eng_derivat] -> to synset ['plimbare_cu_mașina'] (o călătorie cu mașina condusă de altcineva)
+  - Relation [near_eng_derivat] -> to synset ['conducător', 'șofer'] (Persoană care conduce un automobil sau un autobuz.)
+  - Relation [verb_group] -> to synset ['intra'] (A merge, fără a se opri, printr-un anumit loc sau prin dreptul cuiva sau a ceva, a străbate un loc fără a se opri, a-și urma drumul, a fi întrecere pe undeva)
+  - Relation [hyponym] -> to synset [] (A conduce o șaretă)
+  - Relation [hyponym] -> to synset [] (A se mișca propulsat de o forță)
+  - Relation [verb_group] -> to synset ['fi_șofer'] (A lucra ca șofer)
+Hierarchy tree:
+atinge
+   |_ manipula
+      |_ mânui
+         |_ comanda
+            |_ [conduce]
+               |_ A conduce o șaretă
+               |_ A se mișca propulsat de o forță
+
+
+Synset ID 'ENG30-01907076-v'
+Literal ['conduce']; Literal Senses: ['4.x']; Definition: A însoți pe cineva.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [verb_group] -> to synset ['plimba'] (A duce, a purta (oameni sau animale) la plimbare)
+  - Relation [hypernym] -> to synset ['acompania', 'conduce', 'însoți', 'întovărăși', 'petrece'] (a merge cu cineva pe un drum, într-o călătorie etc.)
+  - Relation [hyponym] -> to synset ['merge_la_trap'] ((despre cai) a merge săltat)
+  - Relation [verb_group] -> to synset ['merge_pe_jos'] (A merge pe jos, la pas)
+  - Relation [hyponym] -> to synset [] (A supune pe cineva (de obicei prizonieri) la marș forțat)
+Hierarchy tree:
+|se| deplasa
+   |_ acompania
+      |_ [conduce]
+         |_ merge_la_trap
+         |_ A supune pe cineva (de obicei prizonieri) la marș forțat
+
+
+Synset ID 'ENG30-01931768-v'
+Literal ['conduce', 'direcționa', 'dirija']; Literal Senses: ['5.x', '1', 'x']; Definition: A orienta, a îndruma într-un anumit sens.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['controla', 'domina', 'stăpâni'] (A ține pe cineva sub influența sau sub stăpânirea sa)
+  - Relation [near_eng_derivat] -> to synset ['călăuză', 'ghid'] (Persoană care însoțește pe cineva spre a-i arăta drumul și spre a-i da indicațiile sau explicațiile necesare)
+  - Relation [near_eng_derivat] -> to synset ['călăuză', 'ghid'] (Persoană care îndrumează într-o acțiune, într-un domeniu de cercetare etc.)
+  - Relation [near_eng_derivat] -> to synset ['față'] (În fața (cuiva sau a ceva); înaintea (cuiva sau a ceva).)
+  - Relation [near_eng_derivat] -> to synset ['cap'] ((mil.) Începutul unei formații sau a unei procesiuni.)
+  - Relation [near_eng_derivat] -> to synset ['avansare', 'înaintare'] (Acțiunea de a înainta)
+  - Relation [near_eng_derivat] -> to synset ['linie', 'orientare', 'sens'] (direcția sau calea de-a lungul căreia se mișcă sau se întinde ceva)
+  - Relation [near_eng_derivat] -> to synset ['manevrare'] (Mișcare coordonată ce necesită dexteritate și pricepere.)
+  - Relation [near_eng_derivat] -> to synset ['intrigant', 'trăgător_de_sfori', 'uneltitor'] (Persoană care face intrigi)
+  - Relation [near_eng_derivat] -> to synset ['cârmaci'] (Persoană, sportiv care manevrează cârma unei ambarcații, a unei nave.)
+  - Relation [near_eng_derivat] -> to synset ['navigare'] (acțiunea de a conduce mersul unei nave)
+  - Relation [near_eng_derivat] -> to synset ['ghidare', 'îndrumare', 'dirijare'] (Acțiunea de a ghida)
+  - Relation [hyponym] -> to synset ['îndoca', 'andoca'] (A efectua operațiile de ridicare a unei nave pe un doc plutitor)
+  - Relation [hyponym] -> to synset ['trage_pe_dreapta'] (a îndrepta autovehiculul spre marginea carosabilului)
+  - Relation [hyponym] -> to synset [] (A vira la dreapta (din cârmă sau vâslă))
+  - Relation [hyponym] -> to synset ['cârmi'] (A manevra cârma unei ambarcații, a unei nave, schimbând direcția de mers)
+  - Relation [hyponym] -> to synset ['pilota', 'conduce'] (A conduce în calitate de pilot o navă, a aeronavă, o locomotivă etc.)
+  - Relation [hyponym] -> to synset ['canaliza'] (A dirija o acțiune într-un anumit sens)
+  - Relation [hyponym] -> to synset ['băga_la_colț', 'încolți'] (A înconjura din toate părțile, fără a mai da posibilitatea de retragere.)
+  - Relation [hyponym] -> to synset ['gara', 'parca'] (A lăsa un vehicul să staționeze într-un loc public (anume menajat).)
+Hierarchy tree:
+controla
+   |_ [conduce]
+      |_ îndoca
+      |_ trage_pe_dreapta
+      |_ A vira la dreapta (din cârmă sau vâslă)
+      |_ cârmi
+      |_ pilota
+      |_ canaliza
+      |_ băga_la_colț
+      |_ gara
+
+
+Synset ID 'ENG30-01999798-v'
+Literal ['conduce', 'duce']; Literal Senses: ['1.x', '1.3.2.x']; Definition: A duce pe cineva undeva
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [near_eng_derivat] -> to synset ['călăuză', 'ghid'] (Persoană care însoțește pe cineva spre a-i arăta drumul și spre a-i da indicațiile sau explicațiile necesare)
+  - Relation [near_eng_derivat] -> to synset ['conducător'] (O persoană care îi conduce îi călăuzește sau îi însuflețește pe ceilalți)
+  - Relation [hyponym] -> to synset ['îndruma_greșit'] (A indica cuiva un drum greșit)
+  - Relation [hyponym] -> to synset ['plasa'] (a conduce pe cineva la locul său (în sala de teatru etc.))
+Hierarchy tree:
+[conduce]
+   |_ îndruma_greșit
+   |_ plasa
+
+
+Synset ID 'ENG30-01407722-v'
+Literal ['ghida', 'conduce']; Literal Senses: ['2', 'x']; Definition: a imprima o anumită mișcare unei piese, unui mecanism etc. (cu ajutorul ghidajului).
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['izbi', 'lovi', 'zvârli'] (a face ca ceva să se miște în urma lovirii)
+  - Relation [domain_TOPIC] -> to synset ['atletism'] (Ramură a sportului care cuprinde diverse probe de alergări și de marș, de sărituri și de aruncări sau probe combinate, la care participă atleții)
+  - Relation [near_eng_derivat] -> to synset ['răsucire'] (A se întoarce brusc pe loc, schimbându-și direcția, poziția)
+  - Relation [verb_group] -> to synset ['lovi'] (a lovi pentru a da o anumită direcție)
+Hierarchy tree:
+împinge
+   |_ izbi
+      |_ [conduce]
+         |_ (none)
+
+
+Synset ID 'ENG30-01999423-v'
+Literal ['conduce', 'ghida', 'merge_în_frunte']; Literal Senses: ['1.2', '1', '1']; Definition: A merge în fruntea unui grup de oameni, a călăuzi un grup.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['preceda', 'premerge'] (a se afla, a se găsi înainte de altceva sau de altcineva în spațiu, într-o ierarhie etc.)
+  - Relation [near_eng_derivat] -> to synset ['avansare', 'înaintare'] (Acțiunea de a înainta)
+  - Relation [near_eng_derivat] -> to synset ['față'] (În fața (cuiva sau a ceva); înaintea (cuiva sau a ceva).)
+  - Relation [near_eng_derivat] -> to synset ['cap'] ((mil.) Începutul unei formații sau a unei procesiuni.)
+  - Relation [near_eng_derivat] -> to synset ['conducător'] (O persoană care îi conduce îi călăuzește sau îi însuflețește pe ceilalți)
+  - Relation [verb_group] -> to synset ['fi_în_frunte'] (a conduce sau a fi primul într-un grup și a excela)
+Hierarchy tree:
+|se| deplasa
+   |_ preceda
+      |_ [conduce]
+         |_ (none)
+
+
+Synset ID 'ENG30-02025550-v'
+Literal ['acompania', 'conduce', 'însoți', 'întovărăși', 'petrece']; Literal Senses: ['2.x', '4.x', '1.2.x', 'x', '10.2.x']; Definition: a merge cu cineva pe un drum, într-o călătorie etc.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['|se| deplasa', 'merge'] (A se mișca din poziția inițială;)
+  - Relation [near_eng_derivat] -> to synset ['escortare', 'păzire', 'protejare'] (Faptul de a însoți ceva sau pe cineva, cu scopul de a-l proteja.)
+  - Relation [hyponym] -> to synset ['conduce'] (A însoți pe cineva.)
+  - Relation [hyponym] -> to synset ['[se] însoți'] (a ține companie)
+  - Relation [hyponym] -> to synset ['escorta'] (A însoți o persoană care deține un post înalt pentru a o păzi sau pentru a-i fi de folos.)
+  - Relation [hyponym] -> to synset ['conduce', 'însoți', 'petrece'] (A însoți sau a escorta)
+  - Relation [hyponym] -> to synset ['[se] ține_lipcă'] (a însoți pe cineva peste tot (stingherindu-l cu prezența sa))
+Hierarchy tree:
+|se| deplasa
+   |_ [conduce]
+      |_ conduce
+      |_ [se] însoți
+      |_ escorta
+      |_ conduce
+      |_ [se] ține_lipcă
+
+
+Synset ID 'ENG30-00749205-v'
+Literal ['conduce', 'dirija']; Literal Senses: ['1.x', '1.x']; Definition: a conduce cu autoritate
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['ordona', 'porunci', 'spune', 'zice'] (a dispune cu autoritate ca ceva să se îndeplinească)
+  - Relation [near_eng_derivat] -> to synset ['directivă'] (Instrucțiune generală dată de un orgn superior)
+Hierarchy tree:
+transfera
+   |_ transmite
+      |_ comunica
+         |_ cere
+            |_ cere
+               |_ cere
+                  |_ ordona
+                     |_ [conduce]
+                        |_ (none)
+
+
+Synset ID 'ENG30-01933305-v'
+Literal ['pilota', 'conduce']; Literal Senses: ['1.x', '5']; Definition: A conduce în calitate de pilot o navă, a aeronavă, o locomotivă etc.
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['conduce', 'direcționa', 'dirija'] (A orienta, a îndruma într-un anumit sens.)
+  - Relation [near_eng_derivat] -> to synset ['pilot'] (Persoană calificată care manevrează cârma unei nave (mai ales în regiunile în care navigația este dificilă).)
+  - Relation [near_eng_derivat] -> to synset ['pilotaj'] (ocupația unui pilot)
+  - Relation [near_eng_derivat] -> to synset ['pilotaj', 'pilotare'] (Faptul de a conduce o navă, o aeronavă, o locomotivă în calitate de pilot)
+  - Relation [near_eng_derivat] -> to synset ['ofițer_cu_navigația'] (persoană care conduce o navă)
+  - Relation [near_eng_derivat] -> to synset ['navigator'] (Membru al echipajului unei aeronave care conduce efectiv zborul ei)
+Hierarchy tree:
+controla
+   |_ conduce
+      |_ [conduce]
+         |_ (none)
+
+
+Synset ID 'ENG30-01804414-v'
+Literal ['conduce']; Literal Senses: ['x']; Definition: A prezenta ceva care a fost anterior pregătit în acest scop
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['controla'] (A influența cu discreție și tact)
+  - Relation [near_eng_derivat] -> to synset ['dresor'] (specialist în dresarea animalelor)
+  - Relation [near_eng_derivat] -> to synset ['antrenor'] (Persoană calificată care se ocupă cu antrenarea sportivilor)
+Hierarchy tree:
+acționa
+   |_ interacționa
+      |_ controla
+         |_ [conduce]
+            |_ (none)
+
+
+Synset ID 'ENG30-02586619-v'
+Literal ['guverna', 'conduce']; Literal Senses: ['1', '1.x']; Definition: a-și exercita autoritatea asupra unei națiuni
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['controla', 'domina', 'stăpâni'] (A ține pe cineva sub influența sau sub stăpânirea sa)
+  - Relation [near_eng_derivat] -> to synset ['dominație'] (Putere exercitată prin autoritate legală)
+  - Relation [near_eng_derivat] -> to synset ['domnie'] (Timpul cât un domn se află la conducerea țării.)
+  - Relation [near_eng_derivat] -> to synset ['șef', 'cârmuitor', 'conducător', 'hegemon'] (Persoană care conduce sau comandă)
+  - Relation [near_eng_derivat] -> to synset ['regim'] (Organ de stat care exercită puterea executivă)
+  - Relation [near_eng_derivat] -> to synset ['guvernator'] (persoană care conduce, în numele șefului statului, o unitate administrativ-teritorială mai mare sau un teritoriu dependent, o colonie)
+  - Relation [near_eng_derivat] -> to synset ['guvernare'] (Acțiunea de a guverna)
+  - Relation [hyponym] -> to synset [] (a guverna prost)
+  - Relation [hyponym] -> to synset ['dicta'] (A conduce ca dictator)
+  - Relation [hyponym] -> to synset ['domni'] (A conduce un principat, o țară, o împărăție în calitate de domn)
+Hierarchy tree:
+controla
+   |_ [conduce]
+      |_ a guverna prost
+      |_ dicta
+      |_ domni
+
+
+Synset ID 'ENG30-02627363-v'
+Literal ['ieși', 'duce', 'conduce']; Literal Senses: ['15.1.x', '1.6.x', 'x']; Definition: a se transforma în
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['deveni', '[se] face', '[se] preface', '[se] transforma'] (A lua o formă nouă, un conținut nou.)
+Hierarchy tree:
+[se] schimba
+   |_ [se] metamorfoza
+      |_ deveni
+         |_ [conduce]
+            |_ (none)
+
+
+Synset ID 'ENG30-02635956-v'
+Literal ['conduce', 'duce']; Literal Senses: ['x', '1.6']; Definition: (figurativ) A avea drept rezultat.
+PNO (Positive: 0.125, Negative: 0.125, Objective: 0.75)
++ Relations
+  - Relation [hypernym] -> to synset ['păta'] (a face o pată (permanentă) pe ceva)
+  - Relation [hyponym] -> to synset ['atrage', 'implica', 'cere'] (A avea ceva drept consecință.)
+  - Relation [hyponym] -> to synset ['comporta'] (A aduce cu sine)
+Hierarchy tree:
+crea
+   |_ da_naștere
+      |_ păta
+         |_ [conduce]
+            |_ atrage
+            |_ comporta
+
+
+Synset ID 'ENG30-02026086-v'
+Literal ['conduce', 'însoți', 'petrece']; Literal Senses: ['4.x', '1.1', '10.1']; Definition: A însoți sau a escorta
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['acompania', 'conduce', 'însoți', 'întovărăși', 'petrece'] (a merge cu cineva pe un drum, într-o călătorie etc.)
+Hierarchy tree:
+|se| deplasa
+   |_ acompania
+      |_ [conduce]
+         |_ (none)
+
+
+Synset ID 'ENG30-00539546-v'
+Literal ['conduce']; Literal Senses: ['x']; Definition: a pregăti drumul pentru
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['iniția', 'deschide', 'înființa'] (A face să ia naștere, să funcționeze, a înființa, a organiza o școală, o instituție etc.)
+  - Relation [near_eng_derivat] -> to synset ['inaugural'] (Care pune în mișcare, deschide o serie)
+  - Relation [near_eng_derivat] -> to synset ['declanșare', 'determinare', 'generare', 'pricinuire', 'producere', 'provocare'] (Act care provoacă un alt eveniment.)
+Hierarchy tree:
+crea
+   |_ iniția
+      |_ [conduce]
+         |_ (none)
+
+
+Synset ID 'ENG30-02447001-v'
+Literal ['conduce']; Literal Senses: ['1.x']; Definition: a avea funcția de comandant de navă
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['lucra', 'munci'] (A desfășura o activitate, a depune un efort fizic sau intelectual pentru a produce, a crea ceva)
+  - Relation [near_eng_derivat] -> to synset ['căpitan'] ((Urmat uneori de determinările " de vas ", " de șlep ", " de remorcher ") Comandant al unei nave militare, comerciale sau de pasageri.)
+  - Relation [near_eng_derivat] -> to synset ['căpitan'] (ofițer în marină, comandant al unei nave militare)
+Hierarchy tree:
+lucra
+   |_ [conduce]
+      |_ (none)
+
+
+Synset ID 'ENG30-02440486-v'
+Literal ['conduce']; Literal Senses: ['1.x']; Definition: a fi căpitanul unei echipe sportive
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['administra', 'cârmui', 'conduce'] (A îndruma un grup de oameni, o instituție, o organizație etc., având întreaga răspundere a muncii în domeniul respectiv.)
+  - Relation [near_eng_derivat] -> to synset ['conducător', 'mai-mare'] (Persoană sau organ care conduce un partid, o organizație, o instituție sau o întreprindere)
+Hierarchy tree:
+controla
+   |_ controla
+      |_ coordona
+         |_ administra
+            |_ [conduce]
+               |_ (none)
+
+
+Synset ID 'ENG30-01939678-v'
+Literal ['conduce']; Literal Senses: ['5.x']; Definition: a dirija mersul unei sănii trase de câini
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['mâna'] (a îmboldi, a stimula, a îndemna la mers.)
+  - Relation [near_eng_derivat] -> to synset [] (Persoană care conduce o sanie cu câini)
+Hierarchy tree:
+împinge
+   |_ mâna
+      |_ [conduce]
+         |_ (none)
+
+
+Synset ID 'ENG30-02440020-v'
+Literal ['conduce']; Literal Senses: ['2']; Definition: A îndruma un grup de oameni, o instituție, o organizație etc., având întreaga răspundere a muncii în domeniul respectiv
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['administra', 'cârmui', 'conduce'] (A îndruma un grup de oameni, o instituție, o organizație etc., având întreaga răspundere a muncii în domeniul respectiv.)
+  - Relation [near_eng_derivat] -> to synset ['președinte', 'prezident'] (persoană care prezidează o adunare, o dezbatere, o comisie etc.; prezident.;)
+Hierarchy tree:
+controla
+   |_ controla
+      |_ coordona
+         |_ administra
+            |_ [conduce]
+               |_ (none)
+
+
+Synset ID 'ENG30-02440244-v'
+Literal ['administra', 'cârmui', 'conduce']; Literal Senses: ['1.1', '1', '1']; Definition: A îndruma un grup de oameni, o instituție, o organizație etc., având întreaga răspundere a muncii în domeniul respectiv.
+PNO (Positive: 0.125, Negative: 0.0, Objective: 0.875)
++ Relations
+  - Relation [hypernym] -> to synset ['coordona'] (a îndruma în sens unitar o serie de activități desfășurate în vederea aceluiași scop.;)
+  - Relation [near_eng_derivat] -> to synset ['conducere'] (funcția de conducere)
+  - Relation [near_eng_derivat] -> to synset ['conducător'] (O persoană care îi conduce îi călăuzește sau îi însuflețește pe ceilalți)
+  - Relation [near_eng_derivat] -> to synset ['conducător', 'șef', 'bos'] (personaj învestit cu responsabilitate și autoritate)
+  - Relation [hyponym] -> to synset ['conduce'] (A îndruma un grup de oameni, o instituție, o organizație etc., având întreaga răspundere a muncii în domeniul respectiv)
+  - Relation [hyponym] -> to synset ['conduce'] (a fi căpitanul unei echipe sportive)
+  - Relation [hyponym] -> to synset [] (a fi inițiatorul)
+  - Relation [hyponym] -> to synset ['prelua_controlul'] (A-și asuma controlul unei operațiuni)
+Hierarchy tree:
+controla
+   |_ controla
+      |_ coordona
+         |_ [conduce]
+            |_ conduce
+            |_ conduce
+            |_ a fi inițiatorul
+            |_ prelua_controlul
+
+
+Synset ID 'ENG30-01732921-v'
+Literal ['conduce', 'dirija']; Literal Senses: ['x', '2.c']; Definition: A conduce o orchestră, un cor (în calitate de dirijor).
+PNO (Positive: 0.25, Negative: 0.0, Objective: 0.75)
++ Relations
+  - Relation [hypernym] -> to synset ['efectua', 'face', 'realiza', 'executa'] (A aduce ceva la îndeplinire, a face să devină real.)
+  - Relation [domain_TOPIC] -> to synset ['muzică'] (activitate muzicală)
+  - Relation [near_eng_derivat] -> to synset ['dirijor'] (persoană care conduce un grup muzical)
+  - Relation [near_eng_derivat] -> to synset ['conducere'] (funcția de conducere)
+  - Relation [near_eng_derivat] -> to synset ['dirijat', 'dirijare'] (faptul de a dirija o orchestră sau un cor)
+  - Relation [verb_group] -> to synset ['dirija'] ((prin specializare) A conduce o orchestră, un cor (în calitate de dirijor))
+Hierarchy tree:
+efectua
+   |_ [conduce]
+      |_ (none)
+
+
+Synset ID 'ENG30-02443849-v'
+Literal ['conduce']; Literal Senses: ['1.x']; Definition: (Despre fapte, evenimente etc.) A înfăptui o acțiune de durată, pe etape succesive și pe un plan larg
+PNO (Positive: 0.0, Negative: 0.0, Objective: 1.0)
++ Relations
+  - Relation [hypernym] -> to synset ['coordona'] (a îndruma în sens unitar o serie de activități desfășurate în vederea aceluiași scop.;)
+  - Relation [near_eng_derivat] -> to synset ['administrare'] (Acțiunea de a a gospodări o întreprindere, o instituție etc.)
+  - Relation [near_eng_derivat] -> to synset ['operare'] (Acțiunea de a manevra, conduce ceva (o mașină, o afacere) și rezultatul ei.)
+  - Relation [near_eng_derivat] -> to synset ['operație', 'operațiune'] (activitate comercială desfășurată pe scară largă)
+  - Relation [near_eng_derivat] -> to synset ['operator'] (cel care deține sau realizează o afacere)
+  - Relation [hyponym] -> to synset ['face_o_inginerie_financiară'] (a dirija operațiuni financiare, de obicei într-o manieră imorală)
+  - Relation [hyponym] -> to synset ['acționa', 'opera'] (A realiza prin comenzi un anumit regim de funcționare a unui sistem tehnic)
+  - Relation [hyponym] -> to synset ['bloca'] (a menține un sistem blocat)
+Hierarchy tree:
+controla
+   |_ controla
+      |_ coordona
+         |_ [conduce]
+            |_ face_o_inginerie_financiară
+            |_ acționa
+            |_ bloca
+
+
+
+
+
+
+Part of Speech: adjs
+Word: 'nobil'
+Synset ID 'ENG30-01930244-a'
+Literal ['nobil']; Literal Senses: ['7.2']; Definition: nume dat fiecăruia dintre gazele inerte, incolore și inodore care se găsesc în atmosferăîn mici cantități.
+PNO (Positive: 0.0, Negative: 0.125, Objective: 0.875)
+No outbound relations for synset ENG30-01930244-a
+
+
+Synset ID 'ENG30-01590115-a'
+Literal ['nobil']; Literal Senses: ['8']; Definition: (Persoană) care face parte din nobilime
+PNO (Positive: 0.0, Negative: 0.25, Objective: 0.75)
++ Relations
+  - Relation [near_eng_derivat] -> to synset ['nobilitate', 'noblețe'] (calitatea de a fi de origine nobilă.)
+  - Relation [near_eng_derivat] -> to synset ['aristocrație', 'nobilime', 'noblețe'] (Pătură a unei clase sociale sau a unui grup social care se bucură de mari privilegii, datorate originii, bogăției și poziției sale sociale)
+  - Relation [similar_to] -> to synset ['aristocrat', 'aristocratic'] (Care aparține aristocrației, propriu aristocrației)
+  - Relation [similar_to] -> to synset ['august'] ((Ca epitet dat monarhilor și persoanelor din familiile domnitoare) Preamărit, slăvit.)
+  - Relation [similar_to] -> to synset ['imperial', 'împărătesc', 'regal'] (care aparține unui conducător suprem)
+
+
+Synset ID 'ENG30-01588172-a'
+Literal ['nobil']; Literal Senses: ['1.1']; Definition: Care da dovadă de generozitate, de cinste, de spirit de abnegație
+PNO (Positive: 0.625, Negative: 0.0, Objective: 0.375)
++ Relations
+  - Relation [also_see] -> to synset ['onorabil'] (Demn de cinste, de stimă, de respect)
+  - Relation [near_eng_derivat] -> to synset ['nobilitate', 'noblețe'] (Atitudine, însușire morală superioară; caracter nobil; nobilitate)
+  - Relation [near_antonym] -> to synset ['ignobil'] (Care nu posedă caracter)
+  - Relation [similar_to] -> to synset ['avântat', 'nobil'] (de o înaltă valoare morală sau intelectuală )
+  - Relation [similar_to] -> to synset ['mărinimos', 'magnanim'] (Care este plin de mărinimie, de înțelegere, de bunătate)
+
+
+Synset ID 'ENG30-01588619-a'
+Literal ['avântat', 'nobil']; Literal Senses: ['x', '4']; Definition: de o înaltă valoare morală sau intelectuală 
+PNO (Positive: 0.625, Negative: 0.0, Objective: 0.375)
++ Relations
+  - Relation [similar_to] -> to synset ['nobil'] (Care da dovadă de generozitate, de cinste, de spirit de abnegație)
+  - Relation [near_eng_derivat] -> to synset ['idealism'] ((Rar) Caracterul omului idealist)
+  - Relation [near_eng_derivat] -> to synset ['grandoare', 'măreție', 'splendoare'] (Calitatea de a fi măreț.)
+
+
+Synset ID 'ENG30-01114434-a'
+Literal ['generos', 'mărinimos', 'nobil']; Literal Senses: ['1.2.x', '1.2.x', '1.2']; Definition: Care este plin de mărinimie, de înțelegere, de bunătate
+PNO (Positive: 0.125, Negative: 0.625, Objective: 0.25)
++ Relations
+  - Relation [also_see] -> to synset ['generos'] (Care este gata să ajute în mod dezinteresat pe alții)
+  - Relation [near_eng_derivat] -> to synset ['generozitate', 'munificență', 'dărnicie'] (Calitatea omului generos)
+  - Relation [near_antonym] -> to synset ['meschin', 'avar', 'zgârcit'] (Lipsit de generozitate.   )
+  - Relation [similar_to] -> to synset ['generos', 'mărinimos', 'mare'] (Care este plin de mărinimie, de înțelegere, de bunătate)
+
+
+
+
+Word: 'mândru'
+Synset ID 'ENG30-01892506-a'
+Literal ['mândru']; Literal Senses: ['1.1']; Definition: care manifestă satisfacție față de ceva
+PNO (Positive: 0.5, Negative: 0.375, Objective: 0.125)
++ Relations
+  - Relation [similar_to] -> to synset ['mândru'] (care are un sentiment de demnitate, de încredere în calitățile proprii)
+
+
+Synset ID 'ENG30-01889256-a'
+Literal ['mândru']; Literal Senses: ['1.2']; Definition: care are un sentiment de demnitate, de încredere în calitățile proprii
+PNO (Positive: 0.375, Negative: 0.25, Objective: 0.375)
++ Relations
+  - Relation [attribute] -> to synset ['demnitate', 'mândrie'] (calitatea de a nu putea să te cobori sub propriile standarde)
+  - Relation [near_antonym] -> to synset ['modest', 'umil'] (Care este lipsit de îngâmfare, de aroganță)
+  - Relation [similar_to] -> to synset ['arogant'] (care are o purtare sfidătoare izvorâtă dintr-o mândrie prea mare)
+  - Relation [similar_to] -> to synset ['îngâmfat', 'încrezut', 'fudul', 'închipuit', 'umflat_în_pene', 'înfumurat', 'infatuat'] (Plin de sine însuși)
+  - Relation [similar_to] -> to synset ['cu_nasul_pe_sus'] (Care are păreri exagerate de bune despre sine)
+  - Relation [similar_to] -> to synset ['lăudăros', 'fanfaron'] (Care are obiceiul de a se lăuda, căruia îi place să se laude cu orice prilej)
+  - Relation [similar_to] -> to synset ['arogant', 'disprețuitor'] (Care disprețuiește, care exprimă sau dovedește dispreț.)
+  - Relation [similar_to] -> to synset ['fudul', 'infatuat', 'încrezut', 'înfumurat', 'îngâmfat', 'megaloman', 'mândru', 'trufaș', 'țanțoș'] (Care are o idee foarte bună despre sine)
+  - Relation [similar_to] -> to synset ['mândru'] (care manifestă satisfacție față de ceva)
+
+
+Synset ID 'ENG30-01285136-a'
+Literal ['mândru', 'semeț', 'maiestuos', 'măreț']; Literal Senses: ['3', '1.1', '1', '1.1']; Definition: Care impune prin prestanță, prin demnitate deosebită sau prin caracterul solemn, ceremonios
+PNO (Positive: 0.75, Negative: 0.0, Objective: 0.25)
++ Relations
+  - Relation [similar_to] -> to synset ['impresionant'] (Care produce o impresie puternică sau vie)
+  - Relation [near_eng_derivat] -> to synset ['grandoare', 'măreție', 'maiestate'] (Faptul de a fi măreț; ansamblu de calități care trezesc admirație și respect; grandoare, splendoare, fast.;)
+
+
+Synset ID 'ENG30-01891773-a'
+Literal ['fudul', 'infatuat', 'încrezut', 'înfumurat', 'îngâmfat', 'megaloman', 'mândru', 'trufaș', 'țanțoș']; Literal Senses: ['1.x', '1.x', '1.1.x', '1', '1.1.x', '1.1', '2.1', '1.1', '1.1']; Definition: Care are o idee foarte bună despre sine
+PNO (Positive: 0.25, Negative: 0.375, Objective: 0.375)
++ Relations
+  - Relation [similar_to] -> to synset ['mândru'] (care are un sentiment de demnitate, de încredere în calitățile proprii)
+  - Relation [near_eng_derivat] -> to synset ['orgoliu', 'semeție', 'vanitate', 'amor_propriu', 'amor'] (Părere foarte bună, adesea exagerată și nejustificată, despre sine însuși, despre valoarea și importanța sa socială)
+  - Relation [near_eng_derivat] -> to synset ['vanitate'] (Ambiție neîntemeiată)
+  - Relation [near_eng_derivat] -> to synset ['egoist', 'meschin', 'egotist'] (Persoană individualistă, ce manifestă o preocupare exagerată pentru interesele personale și care acordă o importanță exagerată propriei persoane.)
+  - Relation [near_eng_derivat] -> to synset ['egocentrism', 'egolatrie', 'egotism'] (cult al propriului eu)
+
+
+
+
+
+
