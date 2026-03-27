@@ -112,6 +112,44 @@ Similar words (lemma + POS) sticlă+NOUN:
 
 
 
+Similar words (word) urs:
+  ursul                0.6334
+  lup                  0.5843
+  grizzly              0.5560
+  arktos               0.5498
+  ursului              0.5283
+  barlogul             0.5231
+  câine                0.5135
+  urși                 0.5106
+  animal               0.5091
+  tigru                0.5064
+
+Similar words (lemma) urs:
+  ursul                0.6334
+  lup                  0.5843
+  grizzly              0.5560
+  arktos               0.5498
+  ursului              0.5283
+  barlogul             0.5231
+  câine                0.5135
+  urși                 0.5106
+  animal               0.5091
+  tigru                0.5064
+
+Similar words (lemma + POS) urs+NOUN:
+  Llauta               0.8045
+  Amauta               0.7526
+  alauta               0.7335
+  Serauta              0.7307
+  Parauta              0.7250
+  Atauta               0.7045
+  Simauta              0.7025
+  Badauta              0.6867
+  tauta                0.6767
+  lauta                0.6703
+
+
+
 
 
 Similar words (word) dărâmă:
@@ -225,6 +263,44 @@ Similar words (lemma + POS) întrista+VERB:
   întristară           0.7394
   întristate           0.7302
   întristase           0.7089
+
+
+
+Similar words (word) vedea:
+  observa              0.7735
+  vede                 0.6947
+  privi                0.6738
+  avedea               0.6589
+  arăta                0.6534
+  vedeaa               0.6530
+  văzut                0.6530
+  vedea.Însă           0.6504
+  văd                  0.6478
+  afla                 0.6474
+
+Similar words (lemma) vedea:
+  observa              0.7735
+  vede                 0.6947
+  privi                0.6738
+  avedea               0.6589
+  arăta                0.6534
+  vedeaa               0.6530
+  văzut                0.6530
+  vedea.Însă           0.6504
+  văd                  0.6478
+  afla                 0.6474
+
+Similar words (lemma + POS) vedea+AUX:
+  vedea-               0.8470
+  vedeaa               0.8283
+  vedea.-              0.7734
+  vedeau.              0.7553
+  vedea.SC             0.7529
+  vedea.Însă           0.7391
+  vedea-vor            0.7159
+  vedeati              0.6998
+  vedeați              0.6837
+  vedeț                0.6772
 
 
 
