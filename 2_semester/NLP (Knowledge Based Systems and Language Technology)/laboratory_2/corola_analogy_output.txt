@@ -1,0 +1,375 @@
+
+==================== WORD: ANIMAL ====================
+Analogy Context: animal + om - natură
+
+[Model: Word]
+Result for (animal + om - natură):
+   1. animalul             | 0.6335
+   2. câine                | 0.6202
+   3. animalu              | 0.617
+   4. patruped             | 0.5696
+   5. mamifer              | 0.5607
+   6. omul                 | 0.5543
+   7. cimpanzeu            | 0.5428
+   8. animalule            | 0.5412
+   9. animalic             | 0.5314
+   10. lup                  | 0.5244
+
+[Model: Lemma] -> Keys: animal, om, natură
+Result for (animal + om - natură):
+   1. rumegător            | 0.5042
+   2. rozător              | 0.4994
+   3. mamifer              | 0.4903
+   4. bovină               | 0.4872
+   5. porc                 | 0.4842
+   6. porcină              | 0.4791
+   7. patruped             | 0.4785
+   8. ierbivor             | 0.4779
+   9. ecvideu              | 0.4706
+   10. erbivor              | 0.4686
+
+[Model: Lemma+POS] -> Keys: Nc_animal, Nc_om, Nc_natură
+Result for (Nc_animal + Nc_om - Nc_natură):
+   1. Nc_porc              | 0.5878
+   2. Nc_bovină            | 0.5644
+   3. Nc_canid             | 0.5579
+   4. Nc_câine             | 0.5568
+   5. Nc_pui               | 0.5538
+   6. Nc_mamifer           | 0.545
+   7. Nc_ovină             | 0.5362
+   8. Nc_ecvideu           | 0.5333
+   9. Nc_vacă              | 0.5322
+   10. Nc_găină             | 0.5301
+
+==================== WORD: PRIETEN ====================
+Analogy Context: prieten + femeie - bărbat
+
+[Model: Word]
+Result for (prieten + femeie - bărbat):
+   1. prietenă             | 0.6847
+   2. prietenu             | 0.6093
+   3. prietenul            | 0.6063
+   4. prietena             | 0.594
+   5. fii                  | 0.5783
+   6. iubită               | 0.5718
+   7. iubita               | 0.5557
+   8. iubitul              | 0.5525
+   9. împrietenisem        | 0.5386
+   10. necăjitul            | 0.5355
+
+[Model: Lemma] -> Keys: prieten, femeie, bărbat
+Result for (prieten + femeie - bărbat):
+   1. prietenă             | 0.7694
+   2. prieteni             | 0.7104
+   3. împrietenire         | 0.6736
+   4. împrieteni           | 0.6667
+   5. drag                 | 0.6666
+   6. coleg                | 0.6458
+   7. amic                 | 0.6383
+   8. neprieten            | 0.6348
+   9. admirator            | 0.6121
+   10. nepoată              | 0.6063
+
+[Model: Lemma+POS] -> Keys: Nc_prieten, Nc_femeie, Nc_bărbat
+Result for (Nc_prieten + Nc_femeie - Nc_bărbat):
+   1. Nc_prietenă          | 0.8043
+   2. Af_prieten           | 0.7809
+   3. Nc_amic              | 0.7384
+   4. Nc_iubit             | 0.708
+   5. Nc_coleg             | 0.7046
+   6. Nc_iubită            | 0.6926
+   7. Af_drag              | 0.6865
+   8. Nc_apropiat          | 0.6864
+   9. Nc_împrietenire      | 0.6767
+   10. Nc_drag              | 0.6767
+
+==================== WORD: FRUMOS ====================
+Analogy Context: frumos + admirabil - urat
+
+[Model: Word]
+Result for (frumos + admirabil - urat):
+   1. splendid             | 0.6369
+   2. adorabil             | 0.6088
+   3. elegant              | 0.608
+   4. impecabil            | 0.6013
+   5. superb               | 0.5997
+   6. admirabile           | 0.5981
+   7. încântător           | 0.5976
+   8. frumosul             | 0.5958
+   9. ingenios             | 0.5901
+   10. încîntător           | 0.586
+
+[Model: Lemma] -> Keys: frumos, admirabil, ura
+Result for (frumos + admirabil - ura):
+   1. încântător           | 0.6881
+   2. splendid             | 0.6798
+   3. fermecător           | 0.6506
+   4. elegant              | 0.6414
+   5. superb               | 0.6375
+   6. minunat              | 0.6324
+   7. frumusețe            | 0.6242
+   8. interesant           | 0.6138
+   9. remarcabil           | 0.6022
+   10. măiestrit            | 0.602
+
+[Model: Lemma+POS] -> Keys: Af_frumos, Af_admirabil, Vm_ura
+Result for (Af_frumos + Af_admirabil - Vm_ura):
+   1. Af_splendid          | 0.7015
+   2. Af_încântător        | 0.6953
+   3. Af_superb            | 0.6881
+   4. Af_fermecător        | 0.6639
+   5. Rg_încântător        | 0.6527
+   6. Af_elegant           | 0.6505
+   7. Af_fascinant         | 0.6457
+   8. Af_seducător         | 0.633
+   9. Af_minunat           | 0.6247
+   10. Rg_splendid          | 0.6245
+
+==================== WORD: CASĂ ====================
+Analogy Context: casă + castel - cocioabă
+
+[Model: Word]
+Result for (casă + castel - cocioabă):
+   1. castelul             | 0.5644
+   2. castelului           | 0.5162
+   3. conac                | 0.4995
+   4. palat                | 0.4959
+   5. cabană               | 0.4681
+   6. caserie              | 0.4605
+   7. castelmare           | 0.4502
+   8. linderhof            | 0.4443
+   9. grădină              | 0.4423
+   10. castelele            | 0.4413
+
+[Model: Lemma] -> Keys: casă, castel, cocioabă
+Result for (casă + castel - cocioabă):
+   1. castelan             | 0.4396
+   2. Săvârșin             | 0.4365
+   3. palat                | 0.4127
+   4. Bánffy               | 0.4111
+   5. Peleș                | 0.4096
+   6. Wawel                | 0.4017
+   7. Luvrului             | 0.3998
+   8. conac                | 0.3943
+   9. Banffy               | 0.3783
+   10. muzeu                | 0.3763
+
+[Model: Lemma+POS] -> Keys: Nc_casă, Nc_castel, Nc_cocioabă
+Result for (Nc_casă + Nc_castel - Nc_cocioabă):
+   1. Nc_palat             | 0.5262
+   2. Nc_muzeu             | 0.4889
+   3. Nc_conte             | 0.4747
+   4. Nc_castelan          | 0.4712
+   5. Nc_s                 | 0.4622
+   6. Nc_duce              | 0.454
+   7. Nc_conac             | 0.4429
+   8. Nc_vilă              | 0.4391
+   9. Nc_turn              | 0.4357
+   10. Nc_ost               | 0.4316
+
+==================== WORD: ALERG ====================
+Analogy Context: alerg + maraton - plimbare
+
+[Model: Word]
+Result for (alerg + maraton - plimbare):
+   1. maratonul            | 0.5923
+   2. semimaraton          | 0.5829
+   3. maratonului          | 0.5565
+   4. maratonist           | 0.5361
+   5. adun                 | 0.478
+   6. alergatul            | 0.4779
+   7. alergat              | 0.4652
+   8. lupt                 | 0.4593
+   9. alergător            | 0.4583
+   10. alergătorii          | 0.455
+
+[Model: Lemma] -> Keys: alerga, maraton, plimbare
+Result for (alerga + maraton - plimbare):
+   1. semimaraton          | 0.6291
+   2. maratonist           | 0.6198
+   3. alergat              | 0.5303
+   4. alergător            | 0.5157
+   5. sprinta              | 0.4992
+   6. sprint               | 0.496
+   7. alergare             | 0.4948
+   8. goană                | 0.4886
+   9. bezmetici            | 0.4875
+   10. bezmetic             | 0.4783
+
+[Model: Lemma+POS] -> Keys: alerga, Nc_maraton, Nc_plimbare
+Result for (alerga + Nc_maraton - Nc_plimbare):
+   Error: Missing word: alerga
+
+==================== WORD: VERDE ====================
+Analogy Context: verde + pădure - oraș
+
+[Model: Word]
+Result for (verde + pădure - oraș):
+   1. coacăz               | 0.5591
+   2. pădurețe             | 0.5589
+   3. pădureț              | 0.5546
+   4. ciuf-de-pădure       | 0.5446
+   5. ghindă               | 0.537
+   6. iarbă                | 0.5363
+   7. coacăză              | 0.536
+   8. pădurii              | 0.5339
+   9. fragi                | 0.5305
+   10. ghințură             | 0.5295
+
+[Model: Lemma] -> Keys: verde, pădure, oraș
+Result for (verde + pădure - oraș):
+   1. frunziș              | 0.4529
+   2. păducel              | 0.4487
+   3. necosit              | 0.4487
+   4. arbust               | 0.4432
+   5. fâneață              | 0.4394
+   6. lăstar               | 0.438
+   7. iarbă                | 0.4361
+   8. defrișat             | 0.4337
+   9. foioasă              | 0.4322
+   10. tufiș                | 0.4303
+
+[Model: Lemma+POS] -> Keys: Af_verde, Nc_pădure, Nc_oraș
+Result for (Af_verde + Nc_pădure - Nc_oraș):
+   1. Rg_verde             | 0.5661
+   2. Nc_verde             | 0.4578
+   3. Af_verde-închis      | 0.456
+   4. Nc_pajiște           | 0.4515
+   5. Af_foios             | 0.4398
+   6. Af_galben            | 0.4378
+   7. Af_cosit             | 0.4368
+   8. Vm_arbori            | 0.4341
+   9. Af_padur             | 0.433
+   10. Nc_fâneață           | 0.4304
+
+==================== WORD: A SCRIE ====================
+Analogy Context: a scrie + carte - notă
+
+[Model: Word]
+Result for (a scrie + carte - notă):
+   Error: Missing word: a scrie
+
+[Model: Lemma] -> Keys: a, carte, notă
+Result for (a + carte - notă):
+   1. să                   | 0.4406
+   2. pentru~ca~să         | 0.4276
+   3. ca~să                | 0.4204
+   4. darămite             | 0.4082
+   5. el                   | 0.3987
+   6. în~loc~să            | 0.396
+   7. avea                 | 0.3947
+   8. menire               | 0.3914
+   9. după ce              | 0.3903
+   10. oricine              | 0.3849
+
+[Model: Lemma+POS] -> Keys: a, Nc_carte, Nc_notă
+Result for (a + Nc_carte - Nc_notă):
+   1. Np_Alcon             | 0.4813
+   2. m                    | 0.4702
+   3. r.                   | 0.4688
+   4. Np_Ireland           | 0.4669
+   5. Yn_a.                | 0.4647
+   6. Np_Nycomed           | 0.4638
+   7. Yn_s.                | 0.4611
+   8. Np_Wellcome          | 0.4598
+   9. Np_Alcom             | 0.4582
+   10. Np_Portugal          | 0.4577
+
+==================== WORD: MARE ====================
+Analogy Context: mare + ocean - pârâu
+
+[Model: Word]
+Result for (mare + ocean - pârâu):
+   1. marea                | 0.5052
+   2. mică                 | 0.4727
+   3. uriașă               | 0.4677
+   4. imensă               | 0.4665
+   5. considerabilă        | 0.4602
+   6. oceanul              | 0.4556
+   7. continentul          | 0.4543
+   8. oceans               | 0.447
+   9. enormă               | 0.4418
+   10. popularitate         | 0.4412
+
+[Model: Lemma] -> Keys: mare, ocean, pârâu
+Result for (mare + ocean - pârâu):
+   1. uriaș                | 0.4885
+   2. imens                | 0.4778
+   3. continent            | 0.4688
+   4. dar                  | 0.4587
+   5. oceanic              | 0.4528
+   6. scufunda             | 0.4371
+   7. transoceanic         | 0.4331
+   8. de~peste             | 0.4327
+   9. enorm                | 0.4325
+   10. mic                  | 0.4305
+
+[Model: Lemma+POS] -> Keys: Af_mare, Nc_ocean, pârâu
+Result for (Af_mare + Nc_ocean - pârâu):
+   Error: Missing word: pârâu
+
+==================== WORD: COPAC ====================
+Analogy Context: copac + pădure - grădină
+
+[Model: Word]
+Result for (copac + pădure - grădină):
+   1. copacului            | 0.5989
+   2. copaci               | 0.5888
+   3. copacul              | 0.5887
+   4. pădurii              | 0.5882
+   5. scorburos            | 0.5819
+   6. pădureț              | 0.5689
+   7. copacule             | 0.567
+   8. cioate               | 0.5571
+   9. crengi               | 0.5537
+   10. desiș                | 0.5532
+
+[Model: Lemma] -> Keys: copac, pădure, grădină
+Result for (copac + pădure - grădină):
+   1. fag                  | 0.5549
+   2. foioasă              | 0.5522
+   3. păduros              | 0.5272
+   4. desiș                | 0.513
+   5. mesteacăn            | 0.5065
+   6. silvatic             | 0.5059
+   7. frunziș              | 0.5048
+   8. pădurice             | 0.5032
+   9. tufiș                | 0.5009
+   10. ciot                 | 0.4967
+
+[Model: Lemma+POS] -> Keys: Nc_copac, Nc_pădure, Nc_grădină
+Result for (Nc_copac + Nc_pădure - Nc_grădină):
+   1. Nc_fag               | 0.607
+   2. Nc_pădurice          | 0.5981
+   3. Nc_foioasă           | 0.5901
+   4. Nc_tufiș             | 0.5645
+   5. Nc_ciot              | 0.5578
+   6. Nc_jneapăn           | 0.5537
+   7. Nc_codru             | 0.5535
+   8. Nc_arbor             | 0.5502
+   9. Nc_desiș             | 0.5479
+   10. Nc_molid             | 0.5418
+
+==================== WORD: MĂNÂNCĂ ====================
+Analogy Context: mănâncă + restaurant - casă
+
+[Model: Word]
+Result for (mănâncă + restaurant - casă):
+   1. mănânc               | 0.5844
+   2. restaurantul         | 0.5707
+   3. mănânci              | 0.564
+   4. mânca                | 0.5638
+   5. mânâncă              | 0.5634
+   6. mănânce              | 0.562
+   7. restaurantele        | 0.5596
+   8. prânz                | 0.5549
+   9. restaurantului       | 0.5494
+   10. mâncarea             | 0.5491
+
+[Model: Lemma] -> Keys: mănâncă, restaurant, casă
+Result for (mănâncă + restaurant - casă):
+   Error: Missing word: mănâncă
+
+[Model: Lemma+POS] -> Keys: Vm_mănâncă, Af_restaurant, Nc_casă
+Result for (Vm_mănâncă + Af_restaurant - Nc_casă):
+   Error: Missing word: Vm_mănâncă
