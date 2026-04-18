@@ -15,6 +15,12 @@ public class GUI extends Application {
     private final VBox logContainer = new VBox(5);
     private Timer timer;
 
+    private static GUI instance;
+
+    public GUI() {
+        instance = this;
+    }
+
     @Override
     public void start(Stage primaryStage) {
         // --- ROOT LAYOUT (Horizontal) ---
@@ -26,9 +32,9 @@ public class GUI extends Application {
         Label mapHeader = new Label("City Emergency Map");
         mapHeader.setStyle("-fx-text-fill: white; -fx-font-size: 18px; -fx-font-weight: bold;");
 
-        MapModel.initialize();
+
         terrainView = new TerrainView();
-        terrainView.drawTerrain();
+        terrainView.initializeTerrain();
 
         mapSection.getChildren().addAll(mapHeader, terrainView);
 
@@ -47,7 +53,7 @@ public class GUI extends Application {
         statusBox.getChildren().add(statusTitle);
 
         // We create labels for the ambulances (m units) [cite: 25]
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= MapModel.NUM_AMBULANCES; i++) {
             Label lbl = new Label("Ambulance_" + i + ": Calculating...");
             lbl.setStyle("-fx-text-fill: #3498db;");
             ambulanceStatusLabels.put("Ambulance_" + i, lbl);
@@ -76,36 +82,39 @@ public class GUI extends Application {
             @Override
             public void run() {
                 Platform.runLater(() -> {
-                    updateUI();
+                    updateTerrain();
                 });
             }
-        }, 0, 500);
+        }, 0, 1000);
     }
 
-    private void updateUI() {
-        // Redraw the grid to show movement
-        //terrainView.drawTerrain();
+    private void updateTerrain() {
+        terrainView.drawTerrain(); // Redraw map with current positions
 
-        // Update the status labels using our shared MapModel
-        // This is where we "Perceive" the Real-time Position (Gt)
         for (String id : ambulanceStatusLabels.keySet()) {
-            // In a real implementation, you'd pull actual X,Y from MapModel
-            // ambulanceStatusLabels.get(id).setText(id + " Pos: (" + x + "," + y + ")");
+            int[] pos = MapModel.ambulancePositions.get(id);
+            if (pos != null) {
+                ambulanceStatusLabels.get(id).setText(id + " Pos: (" + pos[0] + "," + pos[1] + ")");
+            }
         }
     }
 
+    public static void addLog(String message, String color) {
+        if (instance == null) return;
+        Platform.runLater(() -> {
+            Label label = new Label("> " + message);
+            label.setStyle("-fx-text-fill: " + color + "; -fx-font-size: 11px;");
+            instance.logContainer.getChildren().add(0, label); // Newest on top
+        });
+    }
     @Override
     public void stop() {
         if (timer != null) timer.cancel();
         System.exit(0);
     }
-    public static void main(String[] args) {
-        new Thread(() -> {
-            try {
-                // MainApp.main(args);
-            } catch (Exception e) { e.printStackTrace(); }
-        }).start();
-
+    public static void main(String[] args) throws InterruptedException{
+        new Thread(() -> ConfigApp.main(args)).start();
+        Thread.sleep(5000);
         launch(args);
     }
 }
