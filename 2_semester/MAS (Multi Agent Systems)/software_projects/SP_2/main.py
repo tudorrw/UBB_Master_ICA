@@ -1,4 +1,4 @@
-from src.app import App
+from src.game.tictactoe import main
 
 if __name__ == "__main__":
-    App().run()
+    main()
