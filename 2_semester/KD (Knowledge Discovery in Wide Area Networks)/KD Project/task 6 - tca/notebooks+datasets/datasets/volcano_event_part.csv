@@ -1,0 +1,15 @@
+id,casualties,category,risk,agent
+1,True,Unknown,Unknown,S
+2,False,Severe,Moderate,I
+3,True,Severe,Moderate,T
+4,True,Severe,Moderate,L
+5,False,Explosive,Low,L
+6,True,Explosive,Low,L
+7,True,Gentle,Minimal,L
+8,True,Gentle,Minimal,T
+9,True,Severe,Moderate,T
+10,True,Severe,Moderate,S
+11,True,Gentle,Minimal,S
+12,True,Explosive,Low,T
+13,False,Unknown,Unknown,P
+14,False,Explosive,Low,S
