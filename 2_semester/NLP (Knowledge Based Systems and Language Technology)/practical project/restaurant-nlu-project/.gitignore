@@ -1,0 +1,10 @@
+__pycache__
+.*.swp
+dialtask.egg-info
+.ipynb_checkpoints
+.vscode/
+data/
+train_predict_DA/predicted.txt
+dialtask/nlu/trained_models_lr.pkl
+dialtask/nlu/bert_nlu_model/
+train_predict_DA/predicted_bert.txt

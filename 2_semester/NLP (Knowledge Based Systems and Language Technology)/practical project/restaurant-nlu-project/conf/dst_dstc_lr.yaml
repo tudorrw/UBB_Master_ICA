@@ -1,0 +1,11 @@
+input: 'dialtask.input.ConsoleInput'
+output: 'dialtask.output.ConsoleOutput'
+
+components:
+  - 'dialtask.nlu.stat_dstc_prob.StatisticalNLUProb'
+  - 'dialtask.dst.stat_tracker.DialogueStateTracker'
+  - 'dialtask.policy.dummy.ReplyWithState'
+
+break_words:
+  - 'exit'
+  - 'quit'

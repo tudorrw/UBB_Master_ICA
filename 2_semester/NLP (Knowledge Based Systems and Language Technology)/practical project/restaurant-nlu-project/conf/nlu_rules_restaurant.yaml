@@ -1,0 +1,10 @@
+input: 'dialtask.input.ConsoleInput'
+output: 'dialtask.output.ConsoleOutput'
+
+components:
+  - 'dialtask.nlu.restaurant.RestaurantNLU'
+  - 'dialtask.policy.dummy.ReplyWithNLU'
+  
+break_words:
+  - 'exit'
+  - 'quit'

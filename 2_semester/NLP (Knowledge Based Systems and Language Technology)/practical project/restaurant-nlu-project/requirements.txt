@@ -1,0 +1,9 @@
+pyyaml
+cloudpickle
+scikit-learn
+unidecode
+regex
+tqdm
+logzero
+transformers
+numpy

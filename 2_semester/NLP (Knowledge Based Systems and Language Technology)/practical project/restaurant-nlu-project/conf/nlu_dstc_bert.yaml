@@ -1,0 +1,10 @@
+input: 'dialtask.input.ConsoleInput'
+output: 'dialtask.output.ConsoleOutput'
+
+components:
+  - 'dialtask.nlu.start_dstc_bert.StatisticalNLUBert'
+  - 'dialtask.policy.dummy.ReplyWithNLU'
+
+break_words:
+  - 'exit'
+  - 'quit'
